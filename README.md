@@ -2,10 +2,10 @@
 
 **Pages:** Revenue Overview • Customer Analysis • Product & Inventory • Logistics & Sales Team
 
-![Revenue Overview](./screenshots/revenue_overview.png)
-![Customer Analysis](./screenshots/customer_analysis.png)
-![Product & Inventory](./screenshots/product_inventory.png)
-![Logistics & Sales Team](./screenshots/logistics_sales_team.png)
+![Revenue Overview](https://github.com/shivrajsinghsisodiya9351-alt/Pharma-end-to-end-analysis-project/blob/main/Revenue%20Overview.png)
+![Customer Analysis](https://github.com/shivrajsinghsisodiya9351-alt/Pharma-end-to-end-analysis-project/blob/main/Customer%20Analysis.png)
+![Product & Inventory](https://github.com/shivrajsinghsisodiya9351-alt/Pharma-end-to-end-analysis-project/blob/main/Product%20%26%20Inventory%20Analysis.png)
+![Logistics & Sales Team](https://github.com/shivrajsinghsisodiya9351-alt/Pharma-end-to-end-analysis-project/blob/main/Logistics%20%26%20Sales%20Team%20Analysis.png)
 
 ---
 
