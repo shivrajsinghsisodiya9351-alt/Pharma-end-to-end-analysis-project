@@ -1,0 +1,1801 @@
+Product_ID,Warehouse,Stock_Available,Reorder_Level,Supplier_ID,Supplier_Name,Lead_Time_Days
+PRD0006,Wh-Delhi-02,89696,85,SUP034,Sun Pharma Distributors 34,29
+PRD0011,Wh-Kolkata-05,87551,4972,SUP021,Cipla Distributors 21,34
+PRD0090,Wh-Mumbai-03,84367,3024,SUP030,Biocon Distributors 30,6
+PRD0165,Wh-Delhi-02,87334,4092,SUP022,Glenmark Distributors 22,34
+PRD0230,Wh-Delhi-02,89882,3585,SUP043,Mankind Pharma Distributors 43,4
+PRD0287,Wh-Mumbai-03,102169,588,SUP043,Mankind Pharma Distributors 43,8
+PRD0119,Wh-Kolkata-05,75308,1704,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0118,Wh-Hyderabad-04,94298,2563,SUP051,Glenmark Distributors 51,18
+PRD0111,Wh-Mumbai-03,97377,657,SUP010,Alkem Labs Distributors 10,25
+PRD0242,Wh-Jaipur-01,88478,4404,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0090,Not Available,84367,2773,SUP019,Lupin Distributors 19,38
+PRD0245,Wh-Mumbai-03,107075,3438,SUP054,Torrent Pharma Distributors 54,6
+PRD0089,Wh-Mumbai-03,98329,2090,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0234,Wh-Kolkata-05,112794,3241,SUP053,Mankind Pharma Distributors 53,11
+PRD0127,Wh-Delhi-02,115902,2309,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0252,Wh-Kolkata-05,82470,1839,SUP060,Alkem Labs Distributors 60,33
+PRD0094,Wh-Delhi-02,68498,4033,SUP012,Cadila Healthcare Distributors 12,13
+PRD0168,Wh-Mumbai-03,87240,772,SUP060,Alkem Labs Distributors 60,36
+PRD0085,Not Available,108747,2983,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0041,Wh-Jaipur-01,76209,1097,SUP027,Torrent Pharma Distributors 27,16
+PRD0300,Wh-Delhi-02,99053,2762,SUP026,Cadila Healthcare Distributors 26,29
+PRD0258,Not Available,82164,1763,SUP040,Lupin Distributors 40,6
+PRD0034,Wh-Mumbai-03,91074,1506,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0091,Wh-Mumbai-03,75865,1038,SUP033,Zydus Lifesciences Distributors 33,13
+PRD0260,Wh-Jaipur-01,90508,1349,SUP021,Cipla Distributors 21,36
+PRD0062,Wh-Mumbai-03,82191,458,SUP060,Alkem Labs Distributors 60,35
+PRD0090,Wh-Hyderabad-04,84367,1215,SUP059,Glenmark Distributors 59,38
+PRD0250,Wh-Kolkata-05,69121,3869,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0273,Wh-Hyderabad-04,79229,2542,SUP042,Biocon Distributors 42,20
+PRD0280,Wh-Hyderabad-04,64371,2394,SUP005,Sun Pharma Distributors 5,30
+PRD0190,Wh-Kolkata-05,92630,3689,SUP042,Biocon Distributors 42,19
+PRD0187,Wh-Delhi-02,76539,2508,SUP039,Alkem Labs Distributors 39,6
+PRD0125,Wh-Delhi-02,83181,461,SUP027,Torrent Pharma Distributors 27,16
+PRD0081,Wh-Hyderabad-04,84509,2115,SUP054,Torrent Pharma Distributors 54,10
+PRD0181,Not Available,83707,2448,SUP006,Torrent Pharma Distributors 6,22
+PRD0046,Wh-Hyderabad-04,91829,958,SUP060,Alkem Labs Distributors 60,37
+PRD0190,Not Available,92630,1625,SUP054,Torrent Pharma Distributors 54,8
+PRD0151,Not Available,83876,2109,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0163,Not Available,84653,2434,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0204,Wh-Delhi-02,129228,4366,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0230,Not Available,89882,1704,SUP012,Not Available,9
+PRD0211,Not Available,77675,159,SUP033,Zydus Lifesciences Distributors 33,14
+PRD0229,Not Available,86428,1563,SUP043,Mankind Pharma Distributors 43,7
+PRD0148,Wh-Hyderabad-04,83821,3884,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0130,Wh-Kolkata-05,95931,1671,SUP019,Lupin Distributors 19,38
+PRD0050,Wh-Mumbai-03,78948,3023,SUP026,Cadila Healthcare Distributors 26,31
+PRD0156,Wh-Mumbai-03,79733,1043,SUP025,Mankind Pharma Distributors 25,36
+PRD0266,Not Available,87240,977,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0033,Wh-Hyderabad-04,103169,4905,SUP018,Not Available,24
+PRD0122,Wh-Mumbai-03,115285,2622,SUP012,Cadila Healthcare Distributors 12,13
+PRD0066,Wh-Kolkata-05,91246,705,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0251,Wh-Kolkata-05,106864,4630,SUP049,Lupin Distributors 49,5
+PRD0034,Wh-Hyderabad-04,91074,1568,SUP054,Torrent Pharma Distributors 54,8
+PRD0224,Wh-Jaipur-01,102214,1754,SUP042,Biocon Distributors 42,22
+PRD0074,Not Available,83717,1318,SUP006,Torrent Pharma Distributors 6,19
+PRD0122,Not Available,115285,1223,SUP035,Sun Pharma Distributors 35,14
+PRD0057,Wh-Hyderabad-04,103627,1743,SUP051,Glenmark Distributors 51,21
+PRD0196,Wh-Hyderabad-04,81031,4449,SUP051,Glenmark Distributors 51,21
+PRD0003,Not Available,97334,2705,SUP051,Not Available,17
+PRD0054,Wh-Kolkata-05,73138,2319,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0255,Not Available,74001,2876,SUP045,Glenmark Distributors 45,26
+PRD0016,Not Available,91876,4503,SUP029,Aurobindo Pharma Distributors 29,22
+PRD0188,Wh-Hyderabad-04,83064,354,SUP024,Sun Pharma Distributors 24,24
+PRD0126,Wh-Delhi-02,73025,79,SUP024,Sun Pharma Distributors 24,24
+PRD0192,Wh-Hyderabad-04,76195,1411,SUP042,Biocon Distributors 42,21
+PRD0257,Wh-Delhi-02,97894,4400,SUP030,Biocon Distributors 30,7
+PRD0270,Not Available,89784,536,SUP014,Alkem Labs Distributors 14,32
+PRD0002,Wh-Jaipur-01,95213,637,SUP056,Cipla Distributors 56,32
+PRD0041,Not Available,76209,2776,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0050,Wh-Kolkata-05,78948,2692,SUP059,Glenmark Distributors 59,37
+PRD0224,Wh-Hyderabad-04,102214,4306,SUP043,Mankind Pharma Distributors 43,5
+PRD0109,Wh-Jaipur-01,97609,1914,SUP038,Aurobindo Pharma Distributors 38,5
+PRD0143,Wh-Delhi-02,136499,2186,SUP037,Glenmark Distributors 37,35
+PRD0116,Wh-Delhi-02,106458,4204,SUP026,Cadila Healthcare Distributors 26,29
+PRD0123,Wh-Mumbai-03,79784,2749,SUP043,Mankind Pharma Distributors 43,6
+PRD0038,Wh-Delhi-02,84695,2132,SUP049,Lupin Distributors 49,5
+PRD0208,Wh-Jaipur-01,85346,134,SUP049,Lupin Distributors 49,2
+PRD0242,Wh-Delhi-02,88478,2713,SUP019,Lupin Distributors 19,35
+PRD0193,Not Available,89708,745,SUP025,Mankind Pharma Distributors 25,35
+PRD0141,Wh-Mumbai-03,80504,3207,SUP055,Dr. Reddy'S Distributors 55,21
+PRD0143,Not Available,136499,1330,SUP052,Torrent Pharma Distributors 52,7
+PRD0024,Wh-Mumbai-03,89074,2819,SUP041,Alkem Labs Distributors 41,20
+PRD0027,Wh-Mumbai-03,77670,2438,SUP023,Not Available,29
+PRD0172,Wh-Mumbai-03,83186,3280,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0058,Wh-Jaipur-01,72178,4303,SUP045,Glenmark Distributors 45,25
+PRD0299,Wh-Mumbai-03,84895,279,SUP005,Sun Pharma Distributors 5,29
+PRD0062,Not Available,82191,1234,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0095,Wh-Hyderabad-04,116238,2141,SUP021,Cipla Distributors 21,35
+PRD0252,Wh-Jaipur-01,82470,3207,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0191,Not Available,89815,2245,SUP043,Mankind Pharma Distributors 43,7
+PRD0128,Wh-Kolkata-05,104029,3838,SUP047,Aurobindo Pharma Distributors 47,9
+PRD0127,Wh-Mumbai-03,115902,2553,SUP027,Torrent Pharma Distributors 27,19
+PRD0074,Wh-Delhi-02,83717,1941,SUP024,Sun Pharma Distributors 24,24
+PRD0257,Not Available,97894,378,SUP005,Sun Pharma Distributors 5,27
+PRD0002,Not Available,95213,2136,SUP026,Cadila Healthcare Distributors 26,31
+PRD0031,Wh-Mumbai-03,100894,1900,SUP001,Biocon Distributors 1,12
+PRD0146,Wh-Jaipur-01,131799,2469,SUP036,Lupin Distributors 36,6
+PRD0202,Not Available,87313,1594,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0227,Wh-Mumbai-03,102772,2629,SUP002,Biocon Distributors 2,33
+PRD0128,Wh-Hyderabad-04,104029,1986,SUP060,Alkem Labs Distributors 60,34
+PRD0015,Wh-Hyderabad-04,93706,3856,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0300,Wh-Mumbai-03,99053,2474,SUP047,Aurobindo Pharma Distributors 47,10
+PRD0266,Wh-Hyderabad-04,87240,3724,SUP046,Sun Pharma Distributors 46,10
+PRD0006,Wh-Hyderabad-04,89696,1871,SUP056,Cipla Distributors 56,32
+PRD0109,Wh-Hyderabad-04,97609,1390,SUP006,Torrent Pharma Distributors 6,22
+PRD0019,Wh-Hyderabad-04,67327,1417,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0092,Wh-Delhi-02,126516,3496,SUP036,Lupin Distributors 36,5
+PRD0070,Wh-Kolkata-05,85784,4739,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0229,Wh-Hyderabad-04,86428,1472,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0188,Wh-Kolkata-05,83064,1308,SUP059,Glenmark Distributors 59,39
+PRD0002,Wh-Delhi-02,95213,3886,SUP043,Mankind Pharma Distributors 43,7
+PRD0077,Not Available,97188,2381,SUP020,Cipla Distributors 20,39
+PRD0016,Wh-Jaipur-01,91876,4125,SUP016,Alkem Labs Distributors 16,22
+PRD0276,Wh-Jaipur-01,92358,1611,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0096,Not Available,95262,152,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0245,Wh-Jaipur-01,107075,3334,SUP024,Sun Pharma Distributors 24,25
+PRD0112,Wh-Delhi-02,78915,1473,SUP055,Dr. Reddy'S Distributors 55,23
+PRD0147,Wh-Jaipur-01,77040,2908,SUP037,Glenmark Distributors 37,39
+PRD0143,Wh-Kolkata-05,136499,3771,SUP053,Mankind Pharma Distributors 53,12
+PRD0082,Wh-Hyderabad-04,90803,1301,SUP052,Torrent Pharma Distributors 52,10
+PRD0243,Not Available,86795,2995,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0085,Wh-Jaipur-01,108747,3246,SUP034,Sun Pharma Distributors 34,28
+PRD0096,Wh-Hyderabad-04,95262,338,SUP004,Cipla Distributors 4,3
+PRD0139,Wh-Hyderabad-04,88577,2998,SUP025,Mankind Pharma Distributors 25,35
+PRD0300,Not Available,99053,2099,SUP056,Cipla Distributors 56,33
+PRD0060,Wh-Hyderabad-04,95234,2058,SUP024,Not Available,24
+PRD0020,Wh-Mumbai-03,84924,331,SUP018,Aurobindo Pharma Distributors 18,21
+PRD0268,Wh-Jaipur-01,74361,717,SUP034,Sun Pharma Distributors 34,30
+PRD0081,Wh-Jaipur-01,84509,2283,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0111,Wh-Hyderabad-04,97377,4413,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0238,Wh-Jaipur-01,78238,2453,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0203,Wh-Kolkata-05,79801,2162,SUP032,Zydus Lifesciences Distributors 32,23
+PRD0293,Wh-Hyderabad-04,110992,3319,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0232,Wh-Kolkata-05,79178,4640,SUP003,Torrent Pharma Distributors 3,24
+PRD0162,Wh-Mumbai-03,91442,1049,SUP003,Torrent Pharma Distributors 3,25
+PRD0285,Not Available,79737,1167,SUP057,Mankind Pharma Distributors 57,34
+PRD0206,Wh-Hyderabad-04,70941,3352,SUP014,Alkem Labs Distributors 14,31
+PRD0057,Not Available,103627,2768,SUP013,Zydus Lifesciences Distributors 13,33
+PRD0115,Wh-Jaipur-01,109904,1387,SUP028,Mankind Pharma Distributors 28,24
+PRD0167,Not Available,82531,3435,SUP042,Biocon Distributors 42,23
+PRD0127,Wh-Kolkata-05,115902,242,SUP050,Dr. Reddy'S Distributors 50,10
+PRD0017,Wh-Kolkata-05,79200,2711,SUP022,Glenmark Distributors 22,32
+PRD0146,Not Available,131799,654,SUP049,Lupin Distributors 49,5
+PRD0207,Wh-Hyderabad-04,66082,2569,SUP019,Lupin Distributors 19,38
+PRD0014,Wh-Delhi-02,82838,1608,SUP040,Lupin Distributors 40,7
+PRD0216,Wh-Mumbai-03,121426,4483,SUP046,Sun Pharma Distributors 46,11
+PRD0195,Wh-Kolkata-05,78760,4822,SUP021,Cipla Distributors 21,35
+PRD0132,Wh-Mumbai-03,72154,4129,SUP039,Alkem Labs Distributors 39,4
+PRD0220,Not Available,76378,4683,SUP030,Biocon Distributors 30,8
+PRD0240,Wh-Hyderabad-04,87671,4522,SUP039,Alkem Labs Distributors 39,7
+PRD0255,Wh-Hyderabad-04,74001,3605,SUP014,Alkem Labs Distributors 14,31
+PRD0031,Wh-Delhi-02,100894,1198,SUP007,Dr. Reddy'S Distributors 7,32
+PRD0084,Not Available,128876,620,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0163,Wh-Mumbai-03,84653,4854,SUP026,Cadila Healthcare Distributors 26,33
+PRD0049,Wh-Jaipur-01,107164,2151,SUP039,Alkem Labs Distributors 39,3
+PRD0070,Wh-Mumbai-03,85784,1274,SUP028,Mankind Pharma Distributors 28,27
+PRD0007,Wh-Kolkata-05,115854,3153,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0068,Wh-Hyderabad-04,93143,3979,SUP020,Cipla Distributors 20,38
+PRD0020,Wh-Jaipur-01,84924,2542,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0287,Not Available,102169,3597,SUP021,Cipla Distributors 21,33
+PRD0022,Wh-Jaipur-01,87297,4266,SUP050,Dr. Reddy'S Distributors 50,10
+PRD0249,Wh-Mumbai-03,86853,4497,SUP037,Glenmark Distributors 37,38
+PRD0272,Wh-Hyderabad-04,65881,2116,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0173,Wh-Delhi-02,81631,3645,SUP035,Sun Pharma Distributors 35,15
+PRD0059,Wh-Jaipur-01,91993,2871,SUP001,Biocon Distributors 1,13
+PRD0260,Wh-Kolkata-05,90508,4818,SUP019,Lupin Distributors 19,35
+PRD0268,Wh-Hyderabad-04,74361,1722,SUP011,Biocon Distributors 11,15
+PRD0127,Wh-Hyderabad-04,115902,4640,SUP016,Alkem Labs Distributors 16,22
+PRD0129,Wh-Jaipur-01,85437,2791,SUP007,Dr. Reddy'S Distributors 7,29
+PRD0227,Wh-Hyderabad-04,102772,4523,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0246,Wh-Kolkata-05,83287,1275,SUP059,Glenmark Distributors 59,37
+PRD0120,Wh-Hyderabad-04,88430,646,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0212,Wh-Hyderabad-04,75418,4299,SUP060,Alkem Labs Distributors 60,35
+PRD0084,Wh-Hyderabad-04,128876,61,SUP011,Biocon Distributors 11,12
+PRD0014,Not Available,82838,2654,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0086,Wh-Delhi-02,99247,4366,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0193,Wh-Hyderabad-04,89708,2644,SUP060,Alkem Labs Distributors 60,37
+PRD0152,Not Available,72298,3857,SUP013,Zydus Lifesciences Distributors 13,35
+PRD0107,Wh-Mumbai-03,73889,2231,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0220,Wh-Hyderabad-04,76378,1033,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0282,Wh-Kolkata-05,112774,2642,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0230,Wh-Mumbai-03,89882,4279,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0259,Wh-Jaipur-01,85743,2792,SUP024,Sun Pharma Distributors 24,26
+PRD0150,Not Available,96143,3511,SUP021,Cipla Distributors 21,35
+PRD0173,Wh-Kolkata-05,81631,246,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0259,Wh-Kolkata-05,85743,2972,SUP005,Sun Pharma Distributors 5,28
+PRD0221,Wh-Hyderabad-04,81406,3955,SUP025,Mankind Pharma Distributors 25,36
+PRD0036,Wh-Hyderabad-04,83516,1020,SUP040,Lupin Distributors 40,3
+PRD0198,Wh-Jaipur-01,92413,3267,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0281,Wh-Delhi-02,63955,952,SUP022,Glenmark Distributors 22,36
+PRD0108,Not Available,84268,4810,SUP026,Cadila Healthcare Distributors 26,31
+PRD0131,Wh-Jaipur-01,83130,4130,SUP006,Torrent Pharma Distributors 6,21
+PRD0028,Wh-Delhi-02,90835,2613,SUP037,Glenmark Distributors 37,39
+PRD0241,Wh-Hyderabad-04,80306,2911,SUP003,Torrent Pharma Distributors 3,27
+PRD0091,Wh-Hyderabad-04,75865,643,SUP035,Sun Pharma Distributors 35,13
+PRD0099,Wh-Mumbai-03,119173,638,SUP046,Sun Pharma Distributors 46,9
+PRD0114,Wh-Mumbai-03,80723,2765,SUP003,Not Available,24
+PRD0142,Not Available,91574,590,SUP008,Mankind Pharma Distributors 8,37
+PRD0107,Wh-Kolkata-05,73889,4871,SUP024,Sun Pharma Distributors 24,25
+PRD0136,Wh-Delhi-02,90701,3915,SUP034,Sun Pharma Distributors 34,29
+PRD0124,Wh-Kolkata-05,73093,721,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0244,Wh-Delhi-02,88714,517,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0212,Wh-Kolkata-05,75418,222,SUP030,Biocon Distributors 30,9
+PRD0186,Wh-Jaipur-01,68130,510,SUP028,Mankind Pharma Distributors 28,25
+PRD0101,Wh-Jaipur-01,98212,3689,SUP059,Glenmark Distributors 59,40
+PRD0177,Wh-Kolkata-05,93999,60,SUP059,Glenmark Distributors 59,38
+PRD0018,Wh-Hyderabad-04,75938,445,SUP010,Alkem Labs Distributors 10,25
+PRD0299,Wh-Jaipur-01,84895,1873,SUP057,Mankind Pharma Distributors 57,35
+PRD0037,Wh-Mumbai-03,118684,3440,SUP037,Glenmark Distributors 37,35
+PRD0066,Not Available,91246,893,SUP015,Zydus Lifesciences Distributors 15,19
+PRD0156,Wh-Hyderabad-04,79733,3743,SUP045,Glenmark Distributors 45,29
+PRD0219,Wh-Mumbai-03,82878,3531,SUP051,Glenmark Distributors 51,18
+PRD0079,Wh-Jaipur-01,88233,3939,SUP021,Cipla Distributors 21,33
+PRD0273,Wh-Jaipur-01,79229,4017,SUP054,Torrent Pharma Distributors 54,7
+PRD0206,Wh-Delhi-02,70941,936,SUP040,Lupin Distributors 40,4
+PRD0140,Not Available,90559,645,SUP025,Mankind Pharma Distributors 25,35
+PRD0249,Wh-Delhi-02,86853,221,SUP052,Torrent Pharma Distributors 52,7
+PRD0271,Not Available,76504,710,SUP054,Torrent Pharma Distributors 54,9
+PRD0282,Wh-Hyderabad-04,112774,3064,SUP016,Alkem Labs Distributors 16,20
+PRD0067,Wh-Kolkata-05,76125,841,SUP024,Sun Pharma Distributors 24,27
+PRD0135,Not Available,71814,4239,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0130,Wh-Hyderabad-04,95931,1662,SUP027,Torrent Pharma Distributors 27,20
+PRD0230,Wh-Jaipur-01,89882,3858,SUP053,Mankind Pharma Distributors 53,13
+PRD0195,Wh-Hyderabad-04,78760,1126,SUP057,Mankind Pharma Distributors 57,37
+PRD0283,Wh-Hyderabad-04,96829,2103,SUP042,Biocon Distributors 42,22
+PRD0274,Wh-Jaipur-01,79056,369,SUP024,Sun Pharma Distributors 24,23
+PRD0011,Wh-Jaipur-01,87551,3798,SUP057,Mankind Pharma Distributors 57,37
+PRD0074,Wh-Hyderabad-04,83717,2362,SUP020,Cipla Distributors 20,39
+PRD0164,Wh-Mumbai-03,123946,2397,SUP023,Sun Pharma Distributors 23,26
+PRD0170,Wh-Mumbai-03,130445,2403,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0046,Wh-Kolkata-05,91829,2858,SUP037,Glenmark Distributors 37,36
+PRD0199,Wh-Jaipur-01,102446,4920,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0101,Wh-Hyderabad-04,98212,2425,SUP053,Mankind Pharma Distributors 53,11
+PRD0295,Wh-Mumbai-03,104180,3299,SUP006,Torrent Pharma Distributors 6,21
+PRD0138,Not Available,79530,249,SUP026,Cadila Healthcare Distributors 26,29
+PRD0088,Wh-Delhi-02,96271,1288,SUP032,Not Available,22
+PRD0103,Wh-Hyderabad-04,84433,1734,SUP037,Glenmark Distributors 37,38
+PRD0289,Wh-Jaipur-01,98567,2527,SUP045,Glenmark Distributors 45,26
+PRD0038,Wh-Hyderabad-04,84695,3038,SUP006,Torrent Pharma Distributors 6,19
+PRD0241,Wh-Delhi-02,80306,3261,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0003,Wh-Hyderabad-04,97334,3776,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0127,Not Available,115902,2038,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0165,Wh-Kolkata-05,87334,2647,SUP059,Glenmark Distributors 59,40
+PRD0231,Not Available,105985,2674,SUP042,Biocon Distributors 42,19
+PRD0098,Wh-Jaipur-01,89349,3185,SUP040,Lupin Distributors 40,5
+PRD0163,Wh-Kolkata-05,84653,4533,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0012,Wh-Kolkata-05,84624,4794,SUP035,Sun Pharma Distributors 35,11
+PRD0012,Wh-Jaipur-01,84624,1777,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0191,Wh-Jaipur-01,89815,2680,SUP053,Mankind Pharma Distributors 53,14
+PRD0222,Wh-Delhi-02,92866,2301,SUP007,Not Available,28
+PRD0007,Wh-Delhi-02,115854,2990,SUP036,Lupin Distributors 36,9
+PRD0059,Not Available,91993,3430,SUP001,Biocon Distributors 1,14
+PRD0122,Wh-Kolkata-05,115285,2042,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0135,Wh-Delhi-02,71814,4221,SUP056,Cipla Distributors 56,30
+PRD0254,Wh-Kolkata-05,80395,2447,SUP042,Not Available,22
+PRD0278,Wh-Hyderabad-04,66965,2955,SUP045,Glenmark Distributors 45,28
+PRD0068,Wh-Jaipur-01,93143,1365,SUP036,Lupin Distributors 36,9
+PRD0059,Wh-Hyderabad-04,91993,3450,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0274,Wh-Hyderabad-04,79056,3238,SUP060,Alkem Labs Distributors 60,35
+PRD0043,Wh-Jaipur-01,75816,3709,SUP027,Torrent Pharma Distributors 27,19
+PRD0131,Wh-Kolkata-05,83130,2350,SUP035,Sun Pharma Distributors 35,11
+PRD0033,Wh-Jaipur-01,103169,2161,SUP059,Glenmark Distributors 59,39
+PRD0210,Wh-Delhi-02,70985,1791,SUP046,Sun Pharma Distributors 46,12
+PRD0203,Wh-Mumbai-03,79801,2344,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0027,Wh-Kolkata-05,77670,2239,SUP010,Alkem Labs Distributors 10,25
+PRD0144,Not Available,66777,3598,SUP054,Torrent Pharma Distributors 54,10
+PRD0125,Wh-Kolkata-05,83181,1568,SUP060,Alkem Labs Distributors 60,37
+PRD0026,Wh-Delhi-02,70199,1102,SUP028,Mankind Pharma Distributors 28,26
+PRD0170,Wh-Hyderabad-04,130445,1232,SUP039,Alkem Labs Distributors 39,6
+PRD0271,Wh-Hyderabad-04,76504,3647,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0294,Wh-Hyderabad-04,75585,142,SUP013,Zydus Lifesciences Distributors 13,35
+PRD0145,Wh-Mumbai-03,85782,4957,SUP035,Sun Pharma Distributors 35,13
+PRD0161,Not Available,73539,2668,SUP023,Sun Pharma Distributors 23,30
+PRD0176,Wh-Mumbai-03,95685,1633,SUP011,Biocon Distributors 11,14
+PRD0229,Wh-Kolkata-05,86428,3399,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0085,Wh-Mumbai-03,108747,695,SUP052,Torrent Pharma Distributors 52,7
+PRD0165,Not Available,87334,1924,SUP024,Sun Pharma Distributors 24,27
+PRD0070,Not Available,85784,1034,SUP014,Alkem Labs Distributors 14,35
+PRD0101,Not Available,98212,4914,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0128,Wh-Mumbai-03,104029,2171,SUP002,Biocon Distributors 2,33
+PRD0242,Wh-Hyderabad-04,88478,1776,SUP036,Lupin Distributors 36,6
+PRD0051,Wh-Kolkata-05,96184,314,SUP010,Alkem Labs Distributors 10,28
+PRD0214,Wh-Delhi-02,96553,3101,SUP002,Not Available,34
+PRD0192,Wh-Kolkata-05,76195,4282,SUP060,Not Available,37
+PRD0111,Wh-Delhi-02,97377,1638,SUP010,Alkem Labs Distributors 10,26
+PRD0094,Wh-Jaipur-01,68498,4308,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0061,Wh-Mumbai-03,75870,2823,SUP002,Biocon Distributors 2,33
+PRD0178,Wh-Delhi-02,79556,4417,SUP052,Torrent Pharma Distributors 52,10
+PRD0025,Wh-Delhi-02,85024,3920,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0086,Wh-Kolkata-05,99247,1676,SUP020,Cipla Distributors 20,36
+PRD0154,Wh-Kolkata-05,64601,4520,SUP037,Glenmark Distributors 37,36
+PRD0106,Wh-Delhi-02,107975,2666,SUP006,Torrent Pharma Distributors 6,22
+PRD0261,Wh-Hyderabad-04,83704,1826,SUP049,Lupin Distributors 49,1
+PRD0265,Not Available,94024,449,SUP052,Torrent Pharma Distributors 52,11
+PRD0198,Wh-Delhi-02,92413,1518,SUP059,Glenmark Distributors 59,40
+PRD0055,Wh-Jaipur-01,84966,2731,SUP060,Alkem Labs Distributors 60,34
+PRD0065,Wh-Mumbai-03,85187,2384,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0224,Not Available,102214,4545,SUP010,Alkem Labs Distributors 10,25
+PRD0152,Wh-Kolkata-05,72298,195,SUP006,Torrent Pharma Distributors 6,21
+PRD0289,Wh-Kolkata-05,98567,2258,SUP024,Sun Pharma Distributors 24,24
+PRD0165,Wh-Jaipur-01,87334,4748,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0224,Wh-Delhi-02,102214,1912,SUP030,Biocon Distributors 30,10
+PRD0117,Not Available,63165,4066,SUP019,Lupin Distributors 19,38
+PRD0049,Wh-Hyderabad-04,107164,4095,SUP026,Cadila Healthcare Distributors 26,33
+PRD0125,Not Available,83181,2531,SUP019,Lupin Distributors 19,36
+PRD0208,Wh-Kolkata-05,85346,2298,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0064,Wh-Kolkata-05,73702,4458,SUP001,Biocon Distributors 1,12
+PRD0132,Wh-Jaipur-01,72154,131,SUP056,Cipla Distributors 56,33
+PRD0293,Wh-Kolkata-05,110992,4105,SUP056,Cipla Distributors 56,30
+PRD0053,Not Available,65148,1035,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0127,Wh-Jaipur-01,115902,3560,SUP006,Torrent Pharma Distributors 6,23
+PRD0080,Wh-Kolkata-05,109855,1902,SUP045,Glenmark Distributors 45,28
+PRD0101,Wh-Kolkata-05,98212,2768,SUP049,Lupin Distributors 49,4
+PRD0298,Wh-Kolkata-05,87344,4127,SUP002,Biocon Distributors 2,35
+PRD0075,Wh-Kolkata-05,66811,1634,SUP020,Cipla Distributors 20,37
+PRD0047,Wh-Delhi-02,112943,753,SUP015,Zydus Lifesciences Distributors 15,22
+PRD0220,Wh-Kolkata-05,76378,2964,SUP059,Glenmark Distributors 59,39
+PRD0044,Wh-Kolkata-05,81509,3317,SUP012,Cadila Healthcare Distributors 12,11
+PRD0226,Wh-Delhi-02,80728,3795,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0297,Wh-Hyderabad-04,83291,1374,SUP024,Sun Pharma Distributors 24,24
+PRD0153,Wh-Jaipur-01,78588,337,SUP028,Mankind Pharma Distributors 28,26
+PRD0040,Wh-Jaipur-01,91711,3410,SUP015,Zydus Lifesciences Distributors 15,20
+PRD0179,Wh-Kolkata-05,96474,4435,SUP025,Mankind Pharma Distributors 25,37
+PRD0076,Wh-Hyderabad-04,83884,2899,SUP011,Biocon Distributors 11,15
+PRD0218,Not Available,77625,4119,SUP036,Lupin Distributors 36,6
+PRD0149,Not Available,116927,1865,SUP005,Sun Pharma Distributors 5,29
+PRD0004,Not Available,59674,3543,SUP054,Not Available,7
+PRD0152,Wh-Jaipur-01,72298,2857,SUP049,Lupin Distributors 49,4
+PRD0005,Wh-Delhi-02,84617,3524,SUP054,Torrent Pharma Distributors 54,9
+PRD0123,Wh-Jaipur-01,79784,3739,SUP060,Alkem Labs Distributors 60,37
+PRD0217,Wh-Delhi-02,105231,2786,SUP003,Torrent Pharma Distributors 3,24
+PRD0075,Wh-Mumbai-03,66811,1328,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0070,Wh-Jaipur-01,85784,596,SUP020,Cipla Distributors 20,37
+PRD0049,Wh-Kolkata-05,107164,1253,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0288,Wh-Hyderabad-04,92064,3123,SUP046,Sun Pharma Distributors 46,12
+PRD0142,Wh-Kolkata-05,91574,2479,SUP034,Sun Pharma Distributors 34,26
+PRD0173,Wh-Jaipur-01,81631,1408,SUP027,Torrent Pharma Distributors 27,19
+PRD0245,Not Available,107075,2324,SUP008,Mankind Pharma Distributors 8,36
+PRD0205,Wh-Kolkata-05,76242,3389,SUP002,Biocon Distributors 2,32
+PRD0225,Wh-Hyderabad-04,89379,1982,SUP023,Sun Pharma Distributors 23,26
+PRD0054,Wh-Jaipur-01,73138,3691,SUP051,Glenmark Distributors 51,21
+PRD0056,Wh-Delhi-02,96109,3839,SUP006,Torrent Pharma Distributors 6,20
+PRD0022,Not Available,87297,2104,SUP006,Torrent Pharma Distributors 6,22
+PRD0191,Wh-Delhi-02,89815,4091,SUP006,Torrent Pharma Distributors 6,23
+PRD0169,Wh-Kolkata-05,96012,897,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0134,Wh-Delhi-02,67537,1492,SUP043,Mankind Pharma Distributors 43,8
+PRD0171,Wh-Hyderabad-04,79972,1210,SUP026,Cadila Healthcare Distributors 26,33
+PRD0021,Wh-Jaipur-01,119690,4893,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0046,Wh-Jaipur-01,91829,4492,SUP042,Biocon Distributors 42,21
+PRD0225,Wh-Kolkata-05,89379,4664,SUP010,Alkem Labs Distributors 10,27
+PRD0258,Wh-Hyderabad-04,82164,3603,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0285,Wh-Delhi-02,79737,1200,SUP042,Biocon Distributors 42,22
+PRD0209,Wh-Delhi-02,94081,872,SUP005,Sun Pharma Distributors 5,28
+PRD0140,Wh-Delhi-02,90559,1711,SUP058,Zydus Lifesciences Distributors 58,39
+PRD0019,Wh-Mumbai-03,67327,2047,SUP014,Alkem Labs Distributors 14,34
+PRD0241,Wh-Mumbai-03,80306,2068,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0281,Wh-Jaipur-01,63955,4931,SUP023,Sun Pharma Distributors 23,27
+PRD0056,Wh-Kolkata-05,96109,4357,SUP041,Alkem Labs Distributors 41,16
+PRD0180,Wh-Hyderabad-04,103363,2881,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0166,Wh-Mumbai-03,86083,389,SUP034,Sun Pharma Distributors 34,26
+PRD0135,Wh-Kolkata-05,71814,1889,SUP002,Biocon Distributors 2,36
+PRD0103,Wh-Kolkata-05,84433,3180,SUP030,Biocon Distributors 30,8
+PRD0059,Wh-Kolkata-05,91993,2028,SUP016,Alkem Labs Distributors 16,19
+PRD0139,Wh-Mumbai-03,88577,4806,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0021,Not Available,119690,3701,SUP056,Cipla Distributors 56,33
+PRD0137,Wh-Delhi-02,95880,4165,SUP022,Glenmark Distributors 22,33
+PRD0010,Wh-Delhi-02,112781,3336,SUP027,Torrent Pharma Distributors 27,19
+PRD0283,Wh-Delhi-02,96829,895,SUP034,Sun Pharma Distributors 34,29
+PRD0136,Wh-Hyderabad-04,90701,1945,SUP060,Alkem Labs Distributors 60,37
+PRD0132,Not Available,72154,1964,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0206,Not Available,70941,2153,SUP037,Glenmark Distributors 37,38
+PRD0233,Wh-Jaipur-01,68002,3805,SUP004,Cipla Distributors 4,6
+PRD0221,Wh-Kolkata-05,81406,500,SUP034,Sun Pharma Distributors 34,27
+PRD0288,Wh-Jaipur-01,92064,3121,SUP006,Torrent Pharma Distributors 6,20
+PRD0129,Wh-Delhi-02,85437,3742,SUP008,Mankind Pharma Distributors 8,39
+PRD0177,Wh-Mumbai-03,93999,1640,SUP054,Torrent Pharma Distributors 54,7
+PRD0047,Wh-Kolkata-05,112943,2777,SUP013,Zydus Lifesciences Distributors 13,35
+PRD0088,Wh-Hyderabad-04,96271,166,SUP035,Sun Pharma Distributors 35,14
+PRD0296,Wh-Hyderabad-04,111212,2881,SUP037,Glenmark Distributors 37,39
+PRD0005,Not Available,84617,2841,SUP057,Mankind Pharma Distributors 57,33
+PRD0103,Wh-Mumbai-03,84433,4395,SUP028,Mankind Pharma Distributors 28,27
+PRD0031,Wh-Kolkata-05,100894,1438,SUP059,Glenmark Distributors 59,38
+PRD0256,Not Available,77992,616,SUP042,Biocon Distributors 42,19
+PRD0200,Wh-Hyderabad-04,87297,2307,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0222,Wh-Mumbai-03,92866,4688,SUP001,Biocon Distributors 1,12
+PRD0045,Wh-Mumbai-03,64337,1663,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0225,Not Available,89379,1393,SUP042,Biocon Distributors 42,22
+PRD0196,Wh-Delhi-02,81031,227,SUP025,Mankind Pharma Distributors 25,37
+PRD0209,Not Available,94081,2221,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0067,Not Available,76125,3574,SUP022,Glenmark Distributors 22,36
+PRD0156,Wh-Jaipur-01,79733,1874,SUP029,Aurobindo Pharma Distributors 29,26
+PRD0232,Wh-Mumbai-03,79178,1722,SUP037,Glenmark Distributors 37,37
+PRD0201,Wh-Hyderabad-04,119168,2914,SUP012,Cadila Healthcare Distributors 12,13
+PRD0154,Wh-Delhi-02,64601,1622,SUP027,Torrent Pharma Distributors 27,17
+PRD0249,Wh-Kolkata-05,86853,1510,SUP054,Torrent Pharma Distributors 54,8
+PRD0113,Wh-Mumbai-03,76459,1294,SUP057,Mankind Pharma Distributors 57,37
+PRD0226,Wh-Hyderabad-04,80728,1506,SUP057,Mankind Pharma Distributors 57,33
+PRD0013,Wh-Jaipur-01,82924,3421,SUP024,Sun Pharma Distributors 24,24
+PRD0138,Wh-Kolkata-05,79530,2562,SUP020,Cipla Distributors 20,36
+PRD0193,Wh-Mumbai-03,89708,2315,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0181,Wh-Hyderabad-04,83707,1551,SUP058,Zydus Lifesciences Distributors 58,39
+PRD0093,Wh-Kolkata-05,68572,2846,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0163,Wh-Hyderabad-04,84653,274,SUP028,Mankind Pharma Distributors 28,28
+PRD0214,Wh-Kolkata-05,96553,4248,SUP005,Sun Pharma Distributors 5,26
+PRD0015,Wh-Mumbai-03,93706,4020,SUP054,Torrent Pharma Distributors 54,6
+PRD0041,Wh-Delhi-02,76209,3497,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0020,Not Available,84924,3052,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0138,Wh-Delhi-02,79530,1197,SUP043,Mankind Pharma Distributors 43,6
+PRD0276,Not Available,92358,250,SUP054,Torrent Pharma Distributors 54,10
+PRD0074,Wh-Mumbai-03,83717,4959,SUP052,Torrent Pharma Distributors 52,8
+PRD0016,Wh-Hyderabad-04,91876,238,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0171,Wh-Kolkata-05,79972,1491,SUP056,Cipla Distributors 56,32
+PRD0156,Not Available,79733,2641,SUP060,Not Available,35
+PRD0086,Not Available,99247,1993,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0079,Wh-Mumbai-03,88233,2027,SUP019,Lupin Distributors 19,38
+PRD0190,Wh-Mumbai-03,92630,2270,SUP041,Alkem Labs Distributors 41,16
+PRD0061,Wh-Jaipur-01,75870,1718,SUP021,Cipla Distributors 21,33
+PRD0141,Wh-Kolkata-05,80504,2108,SUP023,Sun Pharma Distributors 23,26
+PRD0226,Not Available,80728,3160,SUP001,Biocon Distributors 1,14
+PRD0123,Wh-Hyderabad-04,79784,3088,SUP027,Torrent Pharma Distributors 27,16
+PRD0100,Wh-Hyderabad-04,115675,1327,SUP002,Biocon Distributors 2,36
+PRD0267,Wh-Mumbai-03,92488,4761,SUP046,Sun Pharma Distributors 46,12
+PRD0060,Wh-Kolkata-05,95234,866,SUP005,Sun Pharma Distributors 5,26
+PRD0208,Wh-Mumbai-03,85346,3577,SUP053,Mankind Pharma Distributors 53,15
+PRD0033,Not Available,103169,4582,SUP057,Mankind Pharma Distributors 57,37
+PRD0097,Wh-Kolkata-05,90255,4569,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0083,Wh-Jaipur-01,92393,537,SUP011,Biocon Distributors 11,15
+PRD0161,Wh-Kolkata-05,73539,2620,SUP036,Lupin Distributors 36,9
+PRD0148,Not Available,83821,461,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0164,Wh-Jaipur-01,123946,3351,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0205,Not Available,76242,3325,SUP017,Zydus Lifesciences Distributors 17,2
+PRD0177,Wh-Hyderabad-04,93999,2470,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0126,Wh-Mumbai-03,73025,3322,SUP059,Glenmark Distributors 59,38
+PRD0066,Wh-Jaipur-01,91246,2816,SUP057,Mankind Pharma Distributors 57,33
+PRD0201,Wh-Kolkata-05,119168,1241,SUP012,Cadila Healthcare Distributors 12,13
+PRD0298,Wh-Mumbai-03,87344,2263,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0151,Wh-Mumbai-03,83876,605,SUP031,Aurobindo Pharma Distributors 31,8
+PRD0052,Wh-Delhi-02,71384,3996,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0015,Not Available,93706,3532,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0197,Wh-Mumbai-03,87808,4743,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0198,Wh-Hyderabad-04,92413,2188,SUP060,Alkem Labs Distributors 60,36
+PRD0214,Wh-Jaipur-01,96553,3900,SUP019,Lupin Distributors 19,34
+PRD0284,Wh-Kolkata-05,85948,3891,SUP012,Cadila Healthcare Distributors 12,9
+PRD0004,Wh-Hyderabad-04,59674,4797,SUP010,Not Available,25
+PRD0078,Wh-Jaipur-01,110923,2555,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0190,Wh-Jaipur-01,92630,3312,SUP030,Biocon Distributors 30,7
+PRD0124,Wh-Mumbai-03,73093,1516,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0032,Wh-Jaipur-01,84094,2308,SUP008,Mankind Pharma Distributors 8,37
+PRD0048,Wh-Kolkata-05,72007,2320,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0250,Wh-Jaipur-01,69121,2390,SUP026,Cadila Healthcare Distributors 26,31
+PRD0106,Not Available,107975,2069,SUP056,Cipla Distributors 56,31
+PRD0106,Wh-Jaipur-01,107975,4583,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0226,Wh-Mumbai-03,80728,1474,SUP055,Dr. Reddy'S Distributors 55,20
+PRD0124,Wh-Delhi-02,73093,4552,SUP057,Mankind Pharma Distributors 57,36
+PRD0294,Wh-Kolkata-05,75585,1953,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0181,Wh-Delhi-02,83707,4138,SUP037,Glenmark Distributors 37,37
+PRD0291,Wh-Hyderabad-04,101159,4160,SUP019,Lupin Distributors 19,34
+PRD0073,Wh-Kolkata-05,98953,4747,SUP011,Biocon Distributors 11,11
+PRD0180,Wh-Jaipur-01,103363,566,SUP001,Biocon Distributors 1,16
+PRD0280,Wh-Kolkata-05,64371,2269,SUP025,Mankind Pharma Distributors 25,37
+PRD0045,Wh-Jaipur-01,64337,82,SUP018,Aurobindo Pharma Distributors 18,21
+PRD0232,Wh-Jaipur-01,79178,1033,SUP051,Glenmark Distributors 51,19
+PRD0255,Wh-Jaipur-01,74001,4836,SUP046,Sun Pharma Distributors 46,11
+PRD0201,Not Available,119168,677,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0133,Wh-Kolkata-05,99291,1261,SUP019,Lupin Distributors 19,35
+PRD0270,Wh-Delhi-02,89784,1665,SUP020,Cipla Distributors 20,36
+PRD0117,Wh-Mumbai-03,63165,4786,SUP037,Glenmark Distributors 37,36
+PRD0153,Wh-Kolkata-05,78588,1958,SUP034,Sun Pharma Distributors 34,27
+PRD0169,Wh-Hyderabad-04,96012,718,SUP001,Biocon Distributors 1,14
+PRD0160,Wh-Hyderabad-04,87415,1282,SUP052,Torrent Pharma Distributors 52,9
+PRD0193,Wh-Jaipur-01,89708,2952,SUP028,Mankind Pharma Distributors 28,25
+PRD0267,Not Available,92488,635,SUP039,Alkem Labs Distributors 39,6
+PRD0115,Not Available,109904,2026,SUP025,Mankind Pharma Distributors 25,33
+PRD0297,Not Available,83291,2107,SUP030,Biocon Distributors 30,6
+PRD0080,Wh-Jaipur-01,109855,3619,SUP003,Torrent Pharma Distributors 3,27
+PRD0108,Wh-Hyderabad-04,84268,2307,SUP015,Zydus Lifesciences Distributors 15,19
+PRD0203,Wh-Jaipur-01,79801,3691,SUP049,Lupin Distributors 49,3
+PRD0280,Wh-Delhi-02,64371,2498,SUP043,Mankind Pharma Distributors 43,4
+PRD0122,Wh-Delhi-02,115285,1695,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0166,Not Available,86083,1936,SUP055,Dr. Reddy'S Distributors 55,24
+PRD0057,Wh-Kolkata-05,103627,3525,SUP039,Alkem Labs Distributors 39,6
+PRD0050,Wh-Jaipur-01,78948,4721,SUP025,Mankind Pharma Distributors 25,34
+PRD0180,Not Available,103363,1594,SUP016,Alkem Labs Distributors 16,19
+PRD0060,Wh-Mumbai-03,95234,3791,SUP057,Mankind Pharma Distributors 57,34
+PRD0073,Wh-Hyderabad-04,98953,3084,SUP002,Biocon Distributors 2,32
+PRD0038,Wh-Jaipur-01,84695,1465,SUP037,Glenmark Distributors 37,38
+PRD0252,Wh-Mumbai-03,82470,2317,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0087,Wh-Kolkata-05,106063,4670,SUP026,Cadila Healthcare Distributors 26,33
+PRD0100,Wh-Mumbai-03,115675,3445,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0247,Wh-Mumbai-03,81206,3369,SUP019,Lupin Distributors 19,38
+PRD0252,Wh-Hyderabad-04,82470,4577,SUP051,Glenmark Distributors 51,18
+PRD0177,Not Available,93999,1181,SUP028,Mankind Pharma Distributors 28,28
+PRD0183,Wh-Mumbai-03,110603,4576,SUP002,Biocon Distributors 2,34
+PRD0289,Wh-Delhi-02,98567,3441,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0237,Wh-Delhi-02,76970,335,SUP027,Torrent Pharma Distributors 27,18
+PRD0145,Wh-Hyderabad-04,85782,1803,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0154,Wh-Mumbai-03,64601,3509,SUP025,Mankind Pharma Distributors 25,33
+PRD0262,Not Available,98320,3836,SUP016,Alkem Labs Distributors 16,21
+PRD0012,Not Available,84624,1142,SUP034,Sun Pharma Distributors 34,29
+PRD0237,Wh-Jaipur-01,76970,271,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0098,Wh-Kolkata-05,89349,3846,SUP059,Glenmark Distributors 59,36
+PRD0157,Wh-Kolkata-05,81193,3917,SUP035,Sun Pharma Distributors 35,13
+PRD0104,Not Available,135199,2208,SUP041,Alkem Labs Distributors 41,18
+PRD0256,Wh-Kolkata-05,77992,175,SUP046,Sun Pharma Distributors 46,11
+PRD0176,Wh-Hyderabad-04,95685,2400,SUP034,Sun Pharma Distributors 34,30
+PRD0085,Wh-Kolkata-05,108747,4621,SUP022,Glenmark Distributors 22,33
+PRD0182,Not Available,77890,1554,SUP035,Sun Pharma Distributors 35,15
+PRD0051,Wh-Mumbai-03,96184,2865,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0149,Wh-Mumbai-03,116927,4625,SUP020,Cipla Distributors 20,37
+PRD0113,Wh-Delhi-02,76459,3286,SUP053,Mankind Pharma Distributors 53,13
+PRD0084,Wh-Jaipur-01,128876,1493,SUP060,Alkem Labs Distributors 60,37
+PRD0048,Not Available,72007,1722,SUP020,Cipla Distributors 20,39
+PRD0029,Not Available,80305,3944,SUP011,Biocon Distributors 11,12
+PRD0060,Wh-Jaipur-01,95234,2937,SUP049,Lupin Distributors 49,4
+PRD0028,Wh-Hyderabad-04,90835,3204,SUP039,Alkem Labs Distributors 39,4
+PRD0030,Wh-Mumbai-03,87862,78,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0119,Wh-Jaipur-01,75308,3265,SUP046,Sun Pharma Distributors 46,13
+PRD0200,Not Available,87297,1386,SUP045,Glenmark Distributors 45,25
+PRD0233,Wh-Delhi-02,68002,781,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0080,Not Available,109855,4456,SUP035,Sun Pharma Distributors 35,11
+PRD0113,Wh-Hyderabad-04,76459,89,SUP020,Cipla Distributors 20,38
+PRD0289,Wh-Hyderabad-04,98567,3330,SUP014,Alkem Labs Distributors 14,32
+PRD0261,Wh-Jaipur-01,83704,1659,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0009,Wh-Mumbai-03,79729,641,SUP051,Glenmark Distributors 51,17
+PRD0266,Wh-Jaipur-01,87240,4756,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0106,Wh-Hyderabad-04,107975,1997,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0052,Not Available,71384,157,SUP019,Lupin Distributors 19,36
+PRD0085,Wh-Delhi-02,108747,696,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0231,Wh-Kolkata-05,105985,3721,SUP045,Glenmark Distributors 45,26
+PRD0146,Wh-Kolkata-05,131799,2510,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0077,Wh-Hyderabad-04,97188,3485,SUP059,Glenmark Distributors 59,36
+PRD0155,Not Available,83764,687,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0056,Wh-Hyderabad-04,96109,1651,SUP052,Torrent Pharma Distributors 52,11
+PRD0196,Not Available,81031,282,SUP028,Mankind Pharma Distributors 28,24
+PRD0244,Wh-Jaipur-01,88714,620,SUP037,Glenmark Distributors 37,36
+PRD0271,Wh-Delhi-02,76504,2224,SUP027,Torrent Pharma Distributors 27,19
+PRD0157,Wh-Delhi-02,81193,4155,SUP059,Glenmark Distributors 59,36
+PRD0094,Not Available,68498,1440,SUP022,Glenmark Distributors 22,32
+PRD0271,Wh-Kolkata-05,76504,2380,SUP002,Biocon Distributors 2,34
+PRD0265,Wh-Jaipur-01,94024,2086,SUP022,Glenmark Distributors 22,36
+PRD0208,Wh-Hyderabad-04,85346,1273,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0179,Wh-Jaipur-01,96474,3825,SUP036,Lupin Distributors 36,6
+PRD0189,Wh-Kolkata-05,85885,4434,SUP003,Torrent Pharma Distributors 3,27
+PRD0142,Wh-Hyderabad-04,91574,2474,SUP012,Cadila Healthcare Distributors 12,10
+PRD0286,Not Available,90478,1939,SUP039,Alkem Labs Distributors 39,7
+PRD0055,Not Available,84966,851,SUP042,Biocon Distributors 42,20
+PRD0130,Not Available,95931,4707,SUP003,Torrent Pharma Distributors 3,26
+PRD0025,Wh-Jaipur-01,85024,2680,SUP015,Zydus Lifesciences Distributors 15,20
+PRD0295,Not Available,104180,3599,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0279,Not Available,74380,4265,SUP022,Glenmark Distributors 22,34
+PRD0162,Wh-Delhi-02,91442,4291,SUP002,Biocon Distributors 2,35
+PRD0222,Wh-Jaipur-01,92866,3128,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0257,Wh-Kolkata-05,97894,4965,SUP006,Torrent Pharma Distributors 6,20
+PRD0027,Not Available,77670,3831,SUP011,Biocon Distributors 11,12
+PRD0259,Wh-Hyderabad-04,85743,2566,SUP004,Cipla Distributors 4,5
+PRD0218,Wh-Jaipur-01,77625,2953,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0159,Wh-Delhi-02,80119,2015,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0197,Wh-Delhi-02,87808,3237,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0160,Wh-Delhi-02,87415,4671,SUP050,Not Available,9
+PRD0257,Wh-Mumbai-03,97894,1311,SUP020,Cipla Distributors 20,36
+PRD0244,Wh-Kolkata-05,88714,3906,SUP006,Torrent Pharma Distributors 6,19
+PRD0256,Wh-Delhi-02,77992,4817,SUP026,Cadila Healthcare Distributors 26,29
+PRD0288,Not Available,92064,1489,SUP059,Not Available,37
+PRD0220,Wh-Jaipur-01,76378,2139,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0044,Not Available,81509,557,SUP006,Not Available,19
+PRD0035,Wh-Delhi-02,96435,400,SUP027,Torrent Pharma Distributors 27,16
+PRD0144,Wh-Mumbai-03,66777,4324,SUP059,Glenmark Distributors 59,40
+PRD0221,Not Available,81406,2005,SUP042,Biocon Distributors 42,22
+PRD0008,Wh-Mumbai-03,110332,2503,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0027,Wh-Jaipur-01,77670,2714,SUP059,Glenmark Distributors 59,39
+PRD0048,Wh-Hyderabad-04,72007,1086,SUP049,Lupin Distributors 49,2
+PRD0284,Wh-Jaipur-01,85948,928,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0023,Wh-Kolkata-05,119453,1470,SUP045,Not Available,25
+PRD0123,Wh-Delhi-02,79784,124,SUP053,Mankind Pharma Distributors 53,15
+PRD0112,Wh-Hyderabad-04,78915,1498,SUP046,Sun Pharma Distributors 46,10
+PRD0214,Wh-Mumbai-03,96553,398,SUP056,Cipla Distributors 56,33
+PRD0002,Wh-Kolkata-05,95213,4885,SUP003,Torrent Pharma Distributors 3,25
+PRD0148,Wh-Delhi-02,83821,1186,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0112,Wh-Mumbai-03,78915,1001,SUP030,Biocon Distributors 30,9
+PRD0033,Wh-Delhi-02,103169,259,SUP036,Lupin Distributors 36,7
+PRD0005,Wh-Mumbai-03,84617,4871,SUP053,Mankind Pharma Distributors 53,12
+PRD0030,Wh-Delhi-02,87862,3445,SUP001,Biocon Distributors 1,12
+PRD0114,Not Available,80723,4766,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0281,Wh-Kolkata-05,63955,4861,SUP016,Alkem Labs Distributors 16,22
+PRD0153,Wh-Delhi-02,78588,1959,SUP007,Dr. Reddy'S Distributors 7,29
+PRD0285,Wh-Kolkata-05,79737,3515,SUP051,Glenmark Distributors 51,18
+PRD0100,Wh-Kolkata-05,115675,3715,SUP036,Lupin Distributors 36,7
+PRD0203,Wh-Hyderabad-04,79801,551,SUP058,Zydus Lifesciences Distributors 58,39
+PRD0079,Not Available,88233,3179,SUP050,Not Available,10
+PRD0189,Wh-Jaipur-01,85885,1877,SUP002,Biocon Distributors 2,36
+PRD0153,Not Available,78588,920,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0104,Wh-Hyderabad-04,135199,4239,SUP025,Mankind Pharma Distributors 25,33
+PRD0270,Wh-Mumbai-03,89784,1455,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0280,Wh-Jaipur-01,64371,3585,SUP030,Biocon Distributors 30,10
+PRD0126,Not Available,73025,1200,SUP059,Glenmark Distributors 59,39
+PRD0246,Not Available,83287,3510,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0210,Wh-Hyderabad-04,70985,599,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0210,Wh-Kolkata-05,70985,3872,SUP058,Not Available,39
+PRD0297,Wh-Mumbai-03,83291,3120,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0271,Wh-Jaipur-01,76504,868,SUP010,Alkem Labs Distributors 10,28
+PRD0049,Not Available,107164,282,SUP019,Lupin Distributors 19,37
+PRD0298,Not Available,87344,89,SUP040,Lupin Distributors 40,4
+PRD0038,Wh-Mumbai-03,84695,3569,SUP049,Lupin Distributors 49,4
+PRD0002,Wh-Hyderabad-04,95213,765,SUP027,Torrent Pharma Distributors 27,19
+PRD0176,Not Available,95685,3534,SUP009,Zydus Lifesciences Distributors 9,4
+PRD0196,Wh-Jaipur-01,81031,720,SUP057,Mankind Pharma Distributors 57,36
+PRD0172,Wh-Delhi-02,83186,2424,SUP035,Sun Pharma Distributors 35,11
+PRD0178,Wh-Mumbai-03,79556,273,SUP053,Mankind Pharma Distributors 53,13
+PRD0064,Wh-Hyderabad-04,73702,4075,SUP057,Mankind Pharma Distributors 57,33
+PRD0234,Wh-Jaipur-01,112794,2488,SUP024,Sun Pharma Distributors 24,24
+PRD0198,Wh-Mumbai-03,92413,3008,SUP053,Mankind Pharma Distributors 53,13
+PRD0096,Wh-Mumbai-03,95262,4165,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0154,Not Available,64601,3950,SUP054,Torrent Pharma Distributors 54,8
+PRD0072,Wh-Mumbai-03,73451,4435,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0197,Wh-Hyderabad-04,87808,4552,SUP039,Alkem Labs Distributors 39,6
+PRD0047,Wh-Hyderabad-04,112943,1516,SUP002,Biocon Distributors 2,36
+PRD0258,Wh-Jaipur-01,82164,3769,SUP055,Dr. Reddy'S Distributors 55,21
+PRD0064,Wh-Mumbai-03,73702,2742,SUP032,Zydus Lifesciences Distributors 32,23
+PRD0105,Wh-Hyderabad-04,76643,314,SUP054,Torrent Pharma Distributors 54,8
+PRD0239,Wh-Hyderabad-04,91299,943,SUP028,Mankind Pharma Distributors 28,27
+PRD0143,Wh-Mumbai-03,136499,741,SUP038,Aurobindo Pharma Distributors 38,5
+PRD0017,Wh-Delhi-02,79200,2872,SUP043,Mankind Pharma Distributors 43,7
+PRD0049,Wh-Mumbai-03,107164,2035,SUP039,Alkem Labs Distributors 39,3
+PRD0021,Wh-Delhi-02,119690,3062,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0089,Wh-Kolkata-05,98329,4680,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0158,Wh-Mumbai-03,104469,190,SUP019,Lupin Distributors 19,35
+PRD0109,Wh-Delhi-02,97609,4324,SUP017,Not Available,5
+PRD0263,Wh-Jaipur-01,92669,3778,SUP059,Glenmark Distributors 59,38
+PRD0001,Wh-Kolkata-05,102829,980,SUP060,Alkem Labs Distributors 60,36
+PRD0152,Wh-Mumbai-03,72298,161,SUP016,Not Available,23
+PRD0084,Wh-Delhi-02,128876,4819,SUP051,Glenmark Distributors 51,19
+PRD0257,Wh-Hyderabad-04,97894,3476,SUP014,Alkem Labs Distributors 14,33
+PRD0017,Not Available,79200,3093,SUP004,Cipla Distributors 4,3
+PRD0251,Not Available,106864,211,SUP059,Glenmark Distributors 59,37
+PRD0149,Wh-Delhi-02,116927,4177,SUP022,Glenmark Distributors 22,33
+PRD0058,Wh-Mumbai-03,72178,872,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0106,Wh-Kolkata-05,107975,4966,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0188,Wh-Jaipur-01,83064,2606,SUP008,Mankind Pharma Distributors 8,39
+PRD0091,Not Available,75865,3109,SUP059,Glenmark Distributors 59,37
+PRD0194,Wh-Jaipur-01,94059,3699,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0086,Wh-Mumbai-03,99247,2093,SUP041,Alkem Labs Distributors 41,17
+PRD0016,Wh-Kolkata-05,91876,2660,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0170,Not Available,130445,2995,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0292,Wh-Delhi-02,82078,3352,SUP037,Glenmark Distributors 37,39
+PRD0117,Wh-Jaipur-01,63165,537,SUP056,Cipla Distributors 56,30
+PRD0216,Not Available,121426,4077,SUP040,Lupin Distributors 40,3
+PRD0204,Wh-Kolkata-05,129228,4318,SUP002,Biocon Distributors 2,32
+PRD0014,Wh-Mumbai-03,82838,1403,SUP023,Sun Pharma Distributors 23,28
+PRD0140,Wh-Kolkata-05,90559,3546,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0116,Wh-Kolkata-05,106458,1404,SUP053,Mankind Pharma Distributors 53,11
+PRD0284,Wh-Delhi-02,85948,125,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0010,Wh-Jaipur-01,112781,725,SUP012,Cadila Healthcare Distributors 12,12
+PRD0296,Wh-Kolkata-05,111212,4805,SUP049,Lupin Distributors 49,4
+PRD0261,Wh-Mumbai-03,83704,4470,SUP045,Glenmark Distributors 45,26
+PRD0128,Wh-Delhi-02,104029,1116,SUP045,Glenmark Distributors 45,29
+PRD0073,Wh-Mumbai-03,98953,2289,SUP045,Glenmark Distributors 45,27
+PRD0181,Wh-Mumbai-03,83707,4229,SUP041,Alkem Labs Distributors 41,16
+PRD0265,Wh-Mumbai-03,94024,3325,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0233,Wh-Hyderabad-04,68002,2752,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0236,Not Available,96112,1387,SUP027,Torrent Pharma Distributors 27,18
+PRD0223,Wh-Mumbai-03,97190,2972,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0130,Wh-Mumbai-03,95931,2017,SUP036,Lupin Distributors 36,5
+PRD0243,Wh-Jaipur-01,86795,569,SUP019,Lupin Distributors 19,37
+PRD0249,Not Available,86853,3171,SUP014,Alkem Labs Distributors 14,35
+PRD0276,Wh-Hyderabad-04,92358,484,SUP035,Sun Pharma Distributors 35,13
+PRD0229,Wh-Jaipur-01,86428,1929,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0169,Wh-Mumbai-03,96012,4102,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0290,Wh-Delhi-02,68230,4090,SUP009,Zydus Lifesciences Distributors 9,5
+PRD0014,Wh-Kolkata-05,82838,2822,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0055,Wh-Delhi-02,84966,3349,SUP056,Cipla Distributors 56,34
+PRD0226,Wh-Jaipur-01,80728,3837,SUP023,Sun Pharma Distributors 23,30
+PRD0103,Wh-Jaipur-01,84433,2642,SUP043,Mankind Pharma Distributors 43,8
+PRD0210,Not Available,70985,2896,SUP019,Lupin Distributors 19,36
+PRD0037,Wh-Kolkata-05,118684,3004,SUP046,Sun Pharma Distributors 46,11
+PRD0228,Wh-Delhi-02,111658,3079,SUP053,Mankind Pharma Distributors 53,12
+PRD0107,Wh-Hyderabad-04,73889,3414,SUP016,Alkem Labs Distributors 16,22
+PRD0292,Wh-Hyderabad-04,82078,3431,SUP021,Cipla Distributors 21,32
+PRD0262,Wh-Delhi-02,98320,235,SUP037,Glenmark Distributors 37,39
+PRD0268,Wh-Kolkata-05,74361,3895,SUP033,Zydus Lifesciences Distributors 33,12
+PRD0263,Wh-Delhi-02,92669,4937,SUP030,Biocon Distributors 30,6
+PRD0032,Wh-Delhi-02,84094,4442,SUP020,Cipla Distributors 20,36
+PRD0084,Wh-Mumbai-03,128876,1055,SUP008,Mankind Pharma Distributors 8,38
+PRD0173,Not Available,81631,4168,SUP024,Sun Pharma Distributors 24,27
+PRD0031,Not Available,100894,2864,SUP035,Sun Pharma Distributors 35,11
+PRD0275,Not Available,103363,1883,SUP035,Sun Pharma Distributors 35,11
+PRD0149,Wh-Kolkata-05,116927,1389,SUP010,Alkem Labs Distributors 10,24
+PRD0045,Not Available,64337,4401,SUP004,Cipla Distributors 4,3
+PRD0118,Wh-Delhi-02,94298,4476,SUP012,Cadila Healthcare Distributors 12,9
+PRD0159,Wh-Mumbai-03,80119,864,SUP045,Glenmark Distributors 45,26
+PRD0077,Wh-Mumbai-03,97188,1865,SUP042,Biocon Distributors 42,23
+PRD0237,Wh-Mumbai-03,76970,4037,SUP032,Zydus Lifesciences Distributors 32,22
+PRD0012,Wh-Delhi-02,84624,2621,SUP041,Alkem Labs Distributors 41,18
+PRD0006,Wh-Jaipur-01,89696,302,SUP057,Mankind Pharma Distributors 57,35
+PRD0248,Wh-Kolkata-05,123150,1562,SUP011,Biocon Distributors 11,13
+PRD0100,Wh-Delhi-02,115675,1543,SUP041,Alkem Labs Distributors 41,17
+PRD0171,Wh-Jaipur-01,79972,2525,SUP004,Cipla Distributors 4,6
+PRD0202,Wh-Mumbai-03,87313,241,SUP002,Biocon Distributors 2,36
+PRD0011,Wh-Mumbai-03,87551,4908,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0067,Wh-Jaipur-01,76125,1542,SUP027,Torrent Pharma Distributors 27,19
+PRD0065,Wh-Kolkata-05,85187,2428,SUP027,Torrent Pharma Distributors 27,18
+PRD0102,Wh-Mumbai-03,72813,2407,SUP013,Not Available,35
+PRD0018,Wh-Delhi-02,75938,3413,SUP052,Torrent Pharma Distributors 52,11
+PRD0063,Wh-Delhi-02,107613,3114,SUP043,Mankind Pharma Distributors 43,4
+PRD0111,Not Available,97377,2749,SUP023,Sun Pharma Distributors 23,26
+PRD0044,Wh-Delhi-02,81509,1170,SUP022,Glenmark Distributors 22,36
+PRD0054,Wh-Hyderabad-04,73138,2365,SUP029,Aurobindo Pharma Distributors 29,26
+PRD0229,Wh-Mumbai-03,86428,454,SUP006,Torrent Pharma Distributors 6,21
+PRD0039,Wh-Kolkata-05,73580,1427,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0253,Wh-Kolkata-05,108498,258,SUP034,Sun Pharma Distributors 34,29
+PRD0279,Wh-Delhi-02,74380,3381,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0214,Not Available,96553,3746,SUP023,Sun Pharma Distributors 23,27
+PRD0213,Not Available,79502,1240,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0236,Wh-Jaipur-01,96112,3042,SUP045,Glenmark Distributors 45,27
+PRD0244,Wh-Hyderabad-04,88714,3591,SUP005,Sun Pharma Distributors 5,27
+PRD0030,Wh-Hyderabad-04,87862,4137,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0102,Wh-Kolkata-05,72813,4710,SUP019,Not Available,38
+PRD0250,Wh-Mumbai-03,69121,279,SUP037,Glenmark Distributors 37,38
+PRD0076,Wh-Jaipur-01,83884,3934,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0026,Wh-Hyderabad-04,70199,3507,SUP053,Mankind Pharma Distributors 53,14
+PRD0286,Wh-Kolkata-05,90478,3096,SUP010,Alkem Labs Distributors 10,28
+PRD0272,Not Available,65881,2604,SUP042,Biocon Distributors 42,23
+PRD0023,Wh-Delhi-02,119453,2192,SUP029,Aurobindo Pharma Distributors 29,26
+PRD0204,Not Available,129228,4066,SUP008,Mankind Pharma Distributors 8,39
+PRD0054,Wh-Mumbai-03,73138,927,SUP001,Biocon Distributors 1,15
+PRD0293,Wh-Mumbai-03,110992,1159,SUP004,Cipla Distributors 4,7
+PRD0089,Wh-Hyderabad-04,98329,4466,SUP035,Sun Pharma Distributors 35,12
+PRD0260,Wh-Hyderabad-04,90508,1353,SUP023,Sun Pharma Distributors 23,28
+PRD0180,Wh-Kolkata-05,103363,2242,SUP015,Zydus Lifesciences Distributors 15,20
+PRD0009,Wh-Kolkata-05,79729,1585,SUP056,Cipla Distributors 56,32
+PRD0099,Wh-Hyderabad-04,119173,2912,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0289,Wh-Mumbai-03,98567,941,SUP030,Biocon Distributors 30,9
+PRD0035,Wh-Hyderabad-04,96435,3297,SUP045,Glenmark Distributors 45,26
+PRD0070,Wh-Hyderabad-04,85784,1402,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0247,Wh-Kolkata-05,81206,4966,SUP043,Mankind Pharma Distributors 43,6
+PRD0112,Wh-Jaipur-01,78915,2080,SUP055,Dr. Reddy'S Distributors 55,24
+PRD0110,Wh-Hyderabad-04,80379,3034,SUP011,Biocon Distributors 11,14
+PRD0081,Wh-Mumbai-03,84509,3196,SUP009,Zydus Lifesciences Distributors 9,4
+PRD0202,Wh-Delhi-02,87313,1838,SUP036,Lupin Distributors 36,6
+PRD0292,Not Available,82078,3965,SUP030,Biocon Distributors 30,7
+PRD0097,Wh-Hyderabad-04,90255,1056,SUP037,Glenmark Distributors 37,37
+PRD0273,Wh-Delhi-02,79229,2926,SUP010,Alkem Labs Distributors 10,27
+PRD0070,Wh-Delhi-02,85784,3352,SUP022,Glenmark Distributors 22,33
+PRD0133,Not Available,99291,1175,SUP001,Biocon Distributors 1,16
+PRD0137,Wh-Jaipur-01,95880,2043,SUP027,Torrent Pharma Distributors 27,17
+PRD0136,Wh-Jaipur-01,90701,1575,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0235,Wh-Kolkata-05,96565,2599,SUP022,Glenmark Distributors 22,32
+PRD0087,Wh-Delhi-02,106063,4085,SUP024,Sun Pharma Distributors 24,26
+PRD0089,Wh-Delhi-02,98329,2660,SUP021,Cipla Distributors 21,34
+PRD0140,Wh-Mumbai-03,90559,3108,SUP055,Dr. Reddy'S Distributors 55,23
+PRD0296,Not Available,111212,4975,SUP012,Cadila Healthcare Distributors 12,12
+PRD0082,Wh-Kolkata-05,90803,4939,SUP049,Lupin Distributors 49,4
+PRD0133,Wh-Delhi-02,99291,3158,SUP028,Mankind Pharma Distributors 28,27
+PRD0016,Wh-Mumbai-03,91876,1722,SUP024,Sun Pharma Distributors 24,27
+PRD0021,Wh-Mumbai-03,119690,4626,SUP002,Biocon Distributors 2,36
+PRD0005,Wh-Jaipur-01,84617,1679,SUP040,Lupin Distributors 40,4
+PRD0189,Not Available,85885,2327,SUP042,Biocon Distributors 42,19
+PRD0167,Wh-Kolkata-05,82531,1692,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0062,Wh-Kolkata-05,82191,2695,SUP056,Cipla Distributors 56,31
+PRD0129,Wh-Hyderabad-04,85437,1207,SUP030,Biocon Distributors 30,6
+PRD0202,Wh-Hyderabad-04,87313,4033,SUP057,Mankind Pharma Distributors 57,35
+PRD0063,Not Available,107613,4433,SUP021,Cipla Distributors 21,36
+PRD0244,Not Available,88714,3794,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0116,Wh-Hyderabad-04,106458,4514,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0299,Wh-Delhi-02,84895,1440,SUP001,Biocon Distributors 1,12
+PRD0261,Not Available,83704,3120,SUP030,Biocon Distributors 30,10
+PRD0121,Wh-Hyderabad-04,88961,3801,SUP059,Glenmark Distributors 59,40
+PRD0015,Wh-Kolkata-05,93706,469,SUP041,Alkem Labs Distributors 41,17
+PRD0182,Wh-Jaipur-01,77890,2791,SUP036,Lupin Distributors 36,8
+PRD0194,Not Available,94059,2306,SUP036,Lupin Distributors 36,5
+PRD0015,Wh-Delhi-02,93706,1929,SUP008,Mankind Pharma Distributors 8,36
+PRD0252,Wh-Delhi-02,82470,70,SUP037,Glenmark Distributors 37,37
+PRD0004,Wh-Mumbai-03,59674,4560,SUP060,Alkem Labs Distributors 60,37
+PRD0118,Not Available,94298,1939,SUP005,Sun Pharma Distributors 5,26
+PRD0052,Wh-Mumbai-03,71384,1184,SUP006,Torrent Pharma Distributors 6,23
+PRD0248,Not Available,123150,4961,SUP027,Torrent Pharma Distributors 27,16
+PRD0187,Not Available,76539,984,SUP013,Zydus Lifesciences Distributors 13,33
+PRD0195,Wh-Delhi-02,78760,1370,SUP026,Cadila Healthcare Distributors 26,32
+PRD0186,Wh-Delhi-02,68130,1035,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0249,Wh-Jaipur-01,86853,508,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0285,Wh-Mumbai-03,79737,4054,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0233,Wh-Mumbai-03,68002,4399,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0236,Wh-Delhi-02,96112,2211,SUP036,Lupin Distributors 36,7
+PRD0113,Not Available,76459,420,SUP060,Alkem Labs Distributors 60,36
+PRD0207,Wh-Jaipur-01,66082,64,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0115,Wh-Hyderabad-04,109904,775,SUP019,Lupin Distributors 19,35
+PRD0004,Wh-Kolkata-05,59674,4195,SUP012,Cadila Healthcare Distributors 12,11
+PRD0270,Wh-Jaipur-01,89784,2574,SUP023,Sun Pharma Distributors 23,27
+PRD0233,Not Available,68002,3277,SUP010,Alkem Labs Distributors 10,25
+PRD0264,Wh-Delhi-02,83767,722,SUP020,Cipla Distributors 20,37
+PRD0131,Wh-Mumbai-03,83130,467,SUP003,Torrent Pharma Distributors 3,25
+PRD0025,Not Available,85024,4731,SUP056,Cipla Distributors 56,32
+PRD0213,Wh-Kolkata-05,79502,2913,SUP014,Alkem Labs Distributors 14,31
+PRD0043,Wh-Kolkata-05,75816,490,SUP025,Mankind Pharma Distributors 25,35
+PRD0024,Not Available,89074,4451,SUP024,Sun Pharma Distributors 24,25
+PRD0020,Wh-Delhi-02,84924,3558,SUP032,Zydus Lifesciences Distributors 32,23
+PRD0065,Wh-Hyderabad-04,85187,4181,SUP027,Torrent Pharma Distributors 27,18
+PRD0214,Wh-Hyderabad-04,96553,2963,SUP043,Mankind Pharma Distributors 43,6
+PRD0185,Wh-Hyderabad-04,87290,3640,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0022,Wh-Delhi-02,87297,2399,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0015,Wh-Jaipur-01,93706,486,SUP022,Glenmark Distributors 22,36
+PRD0121,Wh-Mumbai-03,88961,1771,SUP001,Biocon Distributors 1,12
+PRD0095,Not Available,116238,3066,SUP049,Lupin Distributors 49,1
+PRD0189,Wh-Mumbai-03,85885,4060,SUP035,Sun Pharma Distributors 35,15
+PRD0296,Wh-Mumbai-03,111212,3876,SUP037,Glenmark Distributors 37,37
+PRD0244,Wh-Mumbai-03,88714,2155,SUP034,Sun Pharma Distributors 34,27
+PRD0161,Wh-Mumbai-03,73539,883,SUP028,Mankind Pharma Distributors 28,27
+PRD0155,Wh-Jaipur-01,83764,2141,SUP053,Mankind Pharma Distributors 53,12
+PRD0092,Wh-Kolkata-05,126516,3418,SUP020,Cipla Distributors 20,39
+PRD0141,Wh-Jaipur-01,80504,2925,SUP019,Lupin Distributors 19,34
+PRD0071,Not Available,90015,2683,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0278,Wh-Kolkata-05,66965,4541,SUP001,Biocon Distributors 1,15
+PRD0065,Wh-Jaipur-01,85187,2914,SUP060,Alkem Labs Distributors 60,33
+PRD0278,Wh-Delhi-02,66965,2719,SUP044,Dr. Reddy'S Distributors 44,16
+PRD0238,Wh-Kolkata-05,78238,3644,SUP046,Sun Pharma Distributors 46,12
+PRD0035,Not Available,96435,3902,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0168,Not Available,87240,4960,SUP057,Mankind Pharma Distributors 57,37
+PRD0202,Wh-Jaipur-01,87313,3289,SUP008,Mankind Pharma Distributors 8,36
+PRD0288,Wh-Kolkata-05,92064,1940,SUP011,Biocon Distributors 11,11
+PRD0203,Wh-Delhi-02,79801,2794,SUP001,Biocon Distributors 1,16
+PRD0166,Wh-Hyderabad-04,86083,2020,SUP043,Mankind Pharma Distributors 43,6
+PRD0051,Wh-Hyderabad-04,96184,2555,SUP032,Zydus Lifesciences Distributors 32,22
+PRD0288,Wh-Mumbai-03,92064,4900,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0082,Wh-Mumbai-03,90803,4188,SUP020,Cipla Distributors 20,39
+PRD0299,Wh-Hyderabad-04,84895,2600,SUP002,Biocon Distributors 2,32
+PRD0299,Not Available,84895,1033,SUP056,Cipla Distributors 56,34
+PRD0046,Not Available,91829,840,SUP056,Cipla Distributors 56,34
+PRD0150,Wh-Hyderabad-04,96143,2912,SUP028,Mankind Pharma Distributors 28,26
+PRD0231,Wh-Delhi-02,105985,4610,SUP007,Dr. Reddy'S Distributors 7,29
+PRD0060,Not Available,95234,3852,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0096,Wh-Delhi-02,95262,2244,SUP002,Biocon Distributors 2,34
+PRD0121,Wh-Delhi-02,88961,3362,SUP025,Mankind Pharma Distributors 25,34
+PRD0246,Wh-Mumbai-03,83287,3847,SUP060,Alkem Labs Distributors 60,34
+PRD0162,Wh-Hyderabad-04,91442,1916,SUP036,Lupin Distributors 36,8
+PRD0269,Wh-Mumbai-03,99817,463,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0165,Wh-Mumbai-03,87334,4541,SUP046,Sun Pharma Distributors 46,10
+PRD0204,Wh-Mumbai-03,129228,4529,SUP047,Aurobindo Pharma Distributors 47,9
+PRD0158,Wh-Hyderabad-04,104469,4396,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0178,Wh-Jaipur-01,79556,2791,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0096,Wh-Kolkata-05,95262,3327,SUP036,Lupin Distributors 36,9
+PRD0020,Wh-Hyderabad-04,84924,3444,SUP022,Glenmark Distributors 22,34
+PRD0235,Wh-Jaipur-01,96565,4057,SUP023,Sun Pharma Distributors 23,27
+PRD0170,Wh-Delhi-02,130445,1758,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0044,Wh-Mumbai-03,81509,1396,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0191,Wh-Mumbai-03,89815,2208,SUP057,Mankind Pharma Distributors 57,34
+PRD0161,Wh-Hyderabad-04,73539,1782,SUP036,Lupin Distributors 36,8
+PRD0268,Wh-Mumbai-03,74361,1466,SUP046,Sun Pharma Distributors 46,9
+PRD0134,Wh-Mumbai-03,67537,3632,SUP006,Torrent Pharma Distributors 6,22
+PRD0185,Not Available,87290,1204,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0247,Wh-Delhi-02,81206,2311,SUP002,Biocon Distributors 2,36
+PRD0189,Wh-Hyderabad-04,85885,1261,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0062,Wh-Delhi-02,82191,3264,SUP058,Zydus Lifesciences Distributors 58,37
+PRD0273,Wh-Mumbai-03,79229,1634,SUP043,Mankind Pharma Distributors 43,6
+PRD0046,Wh-Mumbai-03,91829,1986,SUP011,Biocon Distributors 11,13
+PRD0091,Wh-Delhi-02,75865,3468,SUP059,Not Available,40
+PRD0085,Wh-Hyderabad-04,108747,2721,SUP001,Biocon Distributors 1,12
+PRD0077,Wh-Jaipur-01,97188,4050,SUP010,Alkem Labs Distributors 10,28
+PRD0104,Wh-Kolkata-05,135199,2818,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0283,Wh-Jaipur-01,96829,1342,SUP003,Torrent Pharma Distributors 3,26
+PRD0209,Wh-Jaipur-01,94081,1578,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0296,Wh-Delhi-02,111212,471,SUP028,Mankind Pharma Distributors 28,27
+PRD0162,Not Available,91442,742,SUP046,Sun Pharma Distributors 46,10
+PRD0092,Not Available,126516,4991,SUP054,Torrent Pharma Distributors 54,8
+PRD0192,Not Available,76195,2561,SUP045,Glenmark Distributors 45,27
+PRD0235,Not Available,96565,4107,SUP030,Biocon Distributors 30,9
+PRD0287,Wh-Jaipur-01,102169,59,SUP010,Alkem Labs Distributors 10,27
+PRD0239,Not Available,91299,1999,SUP040,Lupin Distributors 40,7
+PRD0066,Wh-Delhi-02,91246,643,SUP035,Sun Pharma Distributors 35,15
+PRD0098,Not Available,89349,66,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0075,Wh-Hyderabad-04,66811,366,SUP012,Cadila Healthcare Distributors 12,10
+PRD0148,Wh-Jaipur-01,83821,1351,SUP008,Mankind Pharma Distributors 8,36
+PRD0019,Wh-Jaipur-01,67327,3572,SUP005,Sun Pharma Distributors 5,30
+PRD0185,Wh-Mumbai-03,87290,2572,SUP022,Glenmark Distributors 22,34
+PRD0098,Wh-Delhi-02,89349,4094,SUP010,Alkem Labs Distributors 10,28
+PRD0095,Wh-Jaipur-01,116238,928,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0053,Wh-Hyderabad-04,65148,282,SUP017,Zydus Lifesciences Distributors 17,4
+PRD0282,Wh-Jaipur-01,112774,1261,SUP035,Sun Pharma Distributors 35,15
+PRD0114,Wh-Jaipur-01,80723,3956,SUP022,Not Available,35
+PRD0212,Wh-Mumbai-03,75418,432,SUP025,Mankind Pharma Distributors 25,34
+PRD0107,Not Available,73889,4955,SUP046,Sun Pharma Distributors 46,10
+PRD0047,Wh-Mumbai-03,112943,3405,SUP052,Torrent Pharma Distributors 52,7
+PRD0277,Wh-Delhi-02,84809,2749,SUP025,Mankind Pharma Distributors 25,37
+PRD0167,Wh-Delhi-02,82531,3928,SUP001,Biocon Distributors 1,15
+PRD0290,Not Available,68230,301,SUP010,Alkem Labs Distributors 10,26
+PRD0184,Wh-Jaipur-01,86476,3186,SUP010,Alkem Labs Distributors 10,25
+PRD0079,Wh-Delhi-02,88233,756,SUP045,Glenmark Distributors 45,26
+PRD0069,Wh-Delhi-02,76853,140,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0120,Wh-Jaipur-01,88430,2847,SUP004,Cipla Distributors 4,6
+PRD0062,Wh-Jaipur-01,82191,3387,SUP031,Aurobindo Pharma Distributors 31,11
+PRD0056,Wh-Mumbai-03,96109,3291,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0130,Wh-Jaipur-01,95931,542,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0232,Wh-Hyderabad-04,79178,2676,SUP037,Glenmark Distributors 37,35
+PRD0030,Wh-Kolkata-05,87862,3516,SUP027,Torrent Pharma Distributors 27,17
+PRD0076,Wh-Mumbai-03,83884,3460,SUP009,Not Available,6
+PRD0250,Wh-Delhi-02,69121,4926,SUP034,Sun Pharma Distributors 34,29
+PRD0083,Wh-Hyderabad-04,92393,3127,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0247,Wh-Jaipur-01,81206,3190,SUP004,Cipla Distributors 4,6
+PRD0048,Wh-Mumbai-03,72007,911,SUP013,Zydus Lifesciences Distributors 13,33
+PRD0237,Wh-Kolkata-05,76970,4405,SUP033,Zydus Lifesciences Distributors 33,14
+PRD0266,Wh-Delhi-02,87240,4769,SUP059,Glenmark Distributors 59,36
+PRD0099,Wh-Kolkata-05,119173,3139,SUP050,Not Available,7
+PRD0001,Wh-Delhi-02,102829,4224,SUP004,Not Available,5
+PRD0095,Wh-Mumbai-03,116238,88,SUP024,Sun Pharma Distributors 24,23
+PRD0032,Wh-Mumbai-03,84094,1956,SUP024,Sun Pharma Distributors 24,24
+PRD0007,Wh-Jaipur-01,115854,3030,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0275,Wh-Mumbai-03,103363,4713,SUP014,Alkem Labs Distributors 14,31
+PRD0286,Wh-Hyderabad-04,90478,3298,SUP049,Lupin Distributors 49,1
+PRD0001,Not Available,102829,4898,SUP005,Sun Pharma Distributors 5,27
+PRD0189,Wh-Delhi-02,85885,709,SUP011,Biocon Distributors 11,15
+PRD0156,Wh-Delhi-02,79733,552,SUP060,Alkem Labs Distributors 60,33
+PRD0125,Wh-Mumbai-03,83181,3031,SUP016,Alkem Labs Distributors 16,19
+PRD0157,Wh-Mumbai-03,81193,4661,SUP009,Zydus Lifesciences Distributors 9,4
+PRD0223,Wh-Delhi-02,97190,2478,SUP040,Lupin Distributors 40,6
+PRD0034,Wh-Delhi-02,91074,3792,SUP008,Mankind Pharma Distributors 8,37
+PRD0160,Wh-Jaipur-01,87415,946,SUP008,Mankind Pharma Distributors 8,37
+PRD0069,Not Available,76853,3806,SUP019,Lupin Distributors 19,38
+PRD0269,Not Available,99817,4723,SUP023,Sun Pharma Distributors 23,30
+PRD0018,Wh-Mumbai-03,75938,3050,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0286,Wh-Delhi-02,90478,2785,SUP054,Torrent Pharma Distributors 54,10
+PRD0074,Wh-Jaipur-01,83717,3182,SUP043,Mankind Pharma Distributors 43,6
+PRD0081,Wh-Delhi-02,84509,3093,SUP027,Torrent Pharma Distributors 27,17
+PRD0251,Wh-Mumbai-03,106864,3114,SUP024,Sun Pharma Distributors 24,27
+PRD0233,Wh-Kolkata-05,68002,4016,SUP019,Lupin Distributors 19,35
+PRD0005,Wh-Kolkata-05,84617,304,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0240,Wh-Delhi-02,87671,2827,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0174,Wh-Hyderabad-04,93069,2972,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0239,Wh-Jaipur-01,91299,1846,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0100,Wh-Jaipur-01,115675,705,SUP023,Sun Pharma Distributors 23,30
+PRD0178,Not Available,79556,2549,SUP059,Glenmark Distributors 59,36
+PRD0195,Wh-Mumbai-03,78760,3777,SUP001,Biocon Distributors 1,13
+PRD0222,Not Available,92866,1416,SUP010,Alkem Labs Distributors 10,27
+PRD0284,Not Available,85948,4452,SUP042,Biocon Distributors 42,23
+PRD0223,Wh-Jaipur-01,97190,4688,SUP055,Dr. Reddy'S Distributors 55,21
+PRD0267,Wh-Hyderabad-04,92488,1986,SUP010,Alkem Labs Distributors 10,28
+PRD0190,Wh-Delhi-02,92630,2748,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0116,Not Available,106458,1508,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0208,Wh-Delhi-02,85346,1688,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0068,Wh-Delhi-02,93143,1264,SUP054,Torrent Pharma Distributors 54,7
+PRD0068,Not Available,93143,4896,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0081,Wh-Kolkata-05,84509,3766,SUP036,Lupin Distributors 36,9
+PRD0267,Wh-Kolkata-05,92488,3526,SUP029,Not Available,22
+PRD0183,Wh-Jaipur-01,110603,4321,SUP039,Alkem Labs Distributors 39,7
+PRD0150,Wh-Kolkata-05,96143,1708,SUP035,Sun Pharma Distributors 35,12
+PRD0094,Wh-Kolkata-05,68498,3098,SUP039,Alkem Labs Distributors 39,7
+PRD0025,Wh-Hyderabad-04,85024,1477,SUP025,Mankind Pharma Distributors 25,33
+PRD0067,Wh-Mumbai-03,76125,846,SUP042,Biocon Distributors 42,20
+PRD0105,Wh-Kolkata-05,76643,3923,SUP028,Mankind Pharma Distributors 28,28
+PRD0079,Wh-Kolkata-05,88233,4057,SUP054,Torrent Pharma Distributors 54,9
+PRD0290,Wh-Hyderabad-04,68230,3343,SUP049,Lupin Distributors 49,2
+PRD0232,Wh-Delhi-02,79178,1965,SUP001,Biocon Distributors 1,13
+PRD0067,Wh-Hyderabad-04,76125,623,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0039,Wh-Jaipur-01,73580,1118,SUP043,Mankind Pharma Distributors 43,6
+PRD0182,Wh-Delhi-02,77890,1984,SUP006,Torrent Pharma Distributors 6,19
+PRD0141,Not Available,80504,1794,SUP021,Cipla Distributors 21,34
+PRD0135,Wh-Jaipur-01,71814,1917,SUP008,Mankind Pharma Distributors 8,40
+PRD0118,Wh-Mumbai-03,94298,2520,SUP041,Alkem Labs Distributors 41,19
+PRD0045,Wh-Hyderabad-04,64337,3966,SUP012,Cadila Healthcare Distributors 12,11
+PRD0158,Not Available,104469,2628,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0112,Wh-Kolkata-05,78915,559,SUP034,Sun Pharma Distributors 34,30
+PRD0213,Wh-Delhi-02,79502,1156,SUP010,Alkem Labs Distributors 10,28
+PRD0229,Wh-Delhi-02,86428,2429,SUP005,Sun Pharma Distributors 5,28
+PRD0217,Wh-Jaipur-01,105231,2737,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0231,Wh-Mumbai-03,105985,2787,SUP022,Glenmark Distributors 22,35
+PRD0156,Wh-Kolkata-05,79733,4353,SUP057,Mankind Pharma Distributors 57,33
+PRD0135,Wh-Mumbai-03,71814,3986,SUP034,Sun Pharma Distributors 34,28
+PRD0248,Wh-Mumbai-03,123150,4827,SUP033,Zydus Lifesciences Distributors 33,13
+PRD0164,Wh-Hyderabad-04,123946,3806,SUP014,Alkem Labs Distributors 14,32
+PRD0088,Wh-Kolkata-05,96271,2427,SUP027,Torrent Pharma Distributors 27,20
+PRD0149,Wh-Hyderabad-04,116927,623,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0169,Not Available,96012,4227,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0151,Wh-Kolkata-05,83876,816,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0227,Wh-Jaipur-01,102772,998,SUP034,Sun Pharma Distributors 34,29
+PRD0043,Not Available,75816,2571,SUP013,Zydus Lifesciences Distributors 13,34
+PRD0132,Wh-Hyderabad-04,72154,519,SUP030,Biocon Distributors 30,8
+PRD0145,Wh-Delhi-02,85782,3425,SUP014,Alkem Labs Distributors 14,34
+PRD0087,Wh-Mumbai-03,106063,3407,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0134,Wh-Kolkata-05,67537,3088,SUP057,Mankind Pharma Distributors 57,33
+PRD0238,Not Available,78238,254,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0218,Wh-Kolkata-05,77625,1919,SUP060,Alkem Labs Distributors 60,37
+PRD0082,Wh-Jaipur-01,90803,3590,SUP027,Torrent Pharma Distributors 27,18
+PRD0082,Wh-Delhi-02,90803,1643,SUP035,Sun Pharma Distributors 35,12
+PRD0102,Wh-Delhi-02,72813,785,SUP037,Glenmark Distributors 37,35
+PRD0294,Not Available,75585,4404,SUP030,Biocon Distributors 30,7
+PRD0220,Wh-Delhi-02,76378,3753,SUP022,Glenmark Distributors 22,33
+PRD0266,Wh-Kolkata-05,87240,1664,SUP003,Torrent Pharma Distributors 3,28
+PRD0008,Wh-Delhi-02,110332,3882,SUP020,Cipla Distributors 20,35
+PRD0052,Wh-Hyderabad-04,71384,1494,SUP011,Biocon Distributors 11,11
+PRD0243,Wh-Kolkata-05,86795,1970,SUP060,Alkem Labs Distributors 60,33
+PRD0256,Wh-Jaipur-01,77992,3889,SUP019,Not Available,34
+PRD0104,Wh-Delhi-02,135199,3338,SUP014,Alkem Labs Distributors 14,31
+PRD0140,Wh-Jaipur-01,90559,1853,SUP058,Not Available,41
+PRD0227,Not Available,102772,4082,SUP005,Sun Pharma Distributors 5,28
+PRD0075,Not Available,66811,1905,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0087,Wh-Jaipur-01,106063,2284,SUP028,Mankind Pharma Distributors 28,24
+PRD0136,Not Available,90701,3412,SUP008,Mankind Pharma Distributors 8,38
+PRD0097,Wh-Delhi-02,90255,788,SUP042,Biocon Distributors 42,21
+PRD0013,Wh-Hyderabad-04,82924,3333,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0247,Wh-Hyderabad-04,81206,1239,SUP023,Sun Pharma Distributors 23,30
+PRD0172,Wh-Kolkata-05,83186,136,SUP047,Aurobindo Pharma Distributors 47,10
+PRD0076,Wh-Kolkata-05,83884,3620,SUP037,Glenmark Distributors 37,38
+PRD0125,Wh-Hyderabad-04,83181,3173,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0242,Wh-Kolkata-05,88478,1172,SUP042,Biocon Distributors 42,20
+PRD0260,Not Available,90508,774,SUP056,Cipla Distributors 56,33
+PRD0160,Not Available,87415,505,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0259,Not Available,85743,630,SUP012,Cadila Healthcare Distributors 12,13
+PRD0227,Wh-Delhi-02,102772,1670,SUP037,Glenmark Distributors 37,38
+PRD0089,Not Available,98329,3357,SUP059,Glenmark Distributors 59,38
+PRD0277,Wh-Kolkata-05,84809,1507,SUP023,Sun Pharma Distributors 23,28
+PRD0284,Wh-Mumbai-03,85948,2908,SUP049,Lupin Distributors 49,1
+PRD0023,Wh-Hyderabad-04,119453,2096,SUP032,Zydus Lifesciences Distributors 32,24
+PRD0050,Wh-Delhi-02,78948,3765,SUP001,Biocon Distributors 1,12
+PRD0139,Wh-Delhi-02,88577,4750,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0061,Wh-Kolkata-05,75870,1887,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0251,Wh-Hyderabad-04,106864,79,SUP053,Mankind Pharma Distributors 53,11
+PRD0250,Wh-Hyderabad-04,69121,4836,SUP016,Alkem Labs Distributors 16,22
+PRD0119,Wh-Hyderabad-04,75308,4756,SUP060,Alkem Labs Distributors 60,35
+PRD0137,Wh-Kolkata-05,95880,172,SUP008,Not Available,40
+PRD0013,Wh-Delhi-02,82924,347,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0031,Wh-Jaipur-01,100894,451,SUP021,Cipla Distributors 21,36
+PRD0164,Not Available,123946,1912,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0062,Wh-Hyderabad-04,82191,2702,SUP034,Not Available,27
+PRD0179,Not Available,96474,1315,SUP040,Lupin Distributors 40,3
+PRD0263,Wh-Mumbai-03,92669,1573,SUP030,Biocon Distributors 30,9
+PRD0073,Wh-Jaipur-01,98953,751,SUP011,Not Available,13
+PRD0292,Wh-Mumbai-03,82078,2291,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0081,Not Available,84509,3904,SUP060,Alkem Labs Distributors 60,33
+PRD0235,Wh-Delhi-02,96565,3064,SUP048,Dr. Reddy'S Distributors 48,20
+PRD0006,Wh-Kolkata-05,89696,3797,SUP009,Not Available,3
+PRD0282,Wh-Delhi-02,112774,191,SUP023,Sun Pharma Distributors 23,27
+PRD0061,Wh-Hyderabad-04,75870,588,SUP050,Not Available,6
+PRD0036,Wh-Kolkata-05,83516,196,SUP013,Zydus Lifesciences Distributors 13,33
+PRD0279,Wh-Kolkata-05,74380,3783,SUP050,Dr. Reddy'S Distributors 50,10
+PRD0179,Wh-Mumbai-03,96474,1826,SUP039,Alkem Labs Distributors 39,4
+PRD0177,Wh-Jaipur-01,93999,887,SUP030,Biocon Distributors 30,10
+PRD0183,Not Available,110603,4253,SUP055,Dr. Reddy'S Distributors 55,20
+PRD0213,Wh-Jaipur-01,79502,1875,SUP019,Lupin Distributors 19,36
+PRD0092,Wh-Mumbai-03,126516,1851,SUP014,Alkem Labs Distributors 14,32
+PRD0050,Not Available,78948,3038,SUP045,Glenmark Distributors 45,27
+PRD0240,Wh-Jaipur-01,87671,1142,SUP022,Glenmark Distributors 22,36
+PRD0137,Wh-Hyderabad-04,95880,4869,SUP040,Lupin Distributors 40,4
+PRD0270,Wh-Hyderabad-04,89784,2552,SUP023,Sun Pharma Distributors 23,29
+PRD0037,Wh-Delhi-02,118684,1783,SUP032,Zydus Lifesciences Distributors 32,22
+PRD0291,Not Available,101159,4015,SUP036,Lupin Distributors 36,6
+PRD0120,Wh-Mumbai-03,88430,2345,SUP046,Sun Pharma Distributors 46,11
+PRD0128,Not Available,104029,4581,SUP054,Torrent Pharma Distributors 54,7
+PRD0037,Wh-Jaipur-01,118684,1254,SUP030,Biocon Distributors 30,6
+PRD0217,Wh-Mumbai-03,105231,1679,SUP046,Sun Pharma Distributors 46,11
+PRD0204,Wh-Jaipur-01,129228,4052,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0154,Wh-Hyderabad-04,64601,1087,SUP008,Mankind Pharma Distributors 8,39
+PRD0144,Wh-Delhi-02,66777,1876,SUP054,Torrent Pharma Distributors 54,10
+PRD0219,Wh-Kolkata-05,82878,2095,SUP023,Sun Pharma Distributors 23,27
+PRD0058,Not Available,72178,2737,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0150,Wh-Mumbai-03,96143,4361,SUP056,Cipla Distributors 56,34
+PRD0045,Wh-Delhi-02,64337,1662,SUP058,Zydus Lifesciences Distributors 58,39
+PRD0032,Not Available,84094,854,SUP004,Not Available,4
+PRD0197,Wh-Kolkata-05,87808,2477,SUP053,Mankind Pharma Distributors 53,14
+PRD0094,Wh-Mumbai-03,68498,680,SUP014,Alkem Labs Distributors 14,31
+PRD0150,Wh-Delhi-02,96143,800,SUP027,Torrent Pharma Distributors 27,19
+PRD0269,Wh-Delhi-02,99817,3031,SUP043,Mankind Pharma Distributors 43,8
+PRD0121,Not Available,88961,1586,SUP035,Sun Pharma Distributors 35,11
+PRD0072,Wh-Delhi-02,73451,3722,SUP028,Mankind Pharma Distributors 28,28
+PRD0205,Wh-Delhi-02,76242,1619,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0298,Wh-Hyderabad-04,87344,2924,SUP034,Sun Pharma Distributors 34,26
+PRD0255,Wh-Delhi-02,74001,2217,SUP010,Alkem Labs Distributors 10,28
+PRD0252,Not Available,82470,1425,SUP020,Cipla Distributors 20,36
+PRD0171,Not Available,79972,2009,SUP045,Glenmark Distributors 45,28
+PRD0251,Wh-Jaipur-01,106864,500,SUP046,Sun Pharma Distributors 46,10
+PRD0027,Wh-Delhi-02,77670,2594,SUP051,Glenmark Distributors 51,19
+PRD0144,Wh-Kolkata-05,66777,1778,SUP020,Cipla Distributors 20,36
+PRD0253,Wh-Jaipur-01,108498,1864,SUP045,Glenmark Distributors 45,26
+PRD0184,Wh-Mumbai-03,86476,4314,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0058,Wh-Kolkata-05,72178,2902,SUP010,Not Available,28
+PRD0145,Not Available,85782,510,SUP036,Lupin Distributors 36,9
+PRD0209,Wh-Hyderabad-04,94081,4600,SUP041,Alkem Labs Distributors 41,17
+PRD0180,Wh-Delhi-02,103363,4654,SUP041,Alkem Labs Distributors 41,18
+PRD0034,Wh-Kolkata-05,91074,3959,SUP045,Glenmark Distributors 45,27
+PRD0065,Wh-Delhi-02,85187,715,SUP048,Not Available,19
+PRD0043,Wh-Delhi-02,75816,1722,SUP045,Not Available,29
+PRD0121,Wh-Kolkata-05,88961,4128,SUP024,Sun Pharma Distributors 24,23
+PRD0276,Wh-Delhi-02,92358,2671,SUP017,Not Available,5
+PRD0146,Wh-Hyderabad-04,131799,2241,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0254,Wh-Jaipur-01,80395,1563,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0175,Wh-Kolkata-05,118448,2424,SUP026,Cadila Healthcare Distributors 26,29
+PRD0168,Wh-Jaipur-01,87240,2145,SUP019,Lupin Distributors 19,37
+PRD0007,Wh-Mumbai-03,115854,4565,SUP035,Sun Pharma Distributors 35,11
+PRD0145,Wh-Kolkata-05,85782,3251,SUP053,Mankind Pharma Distributors 53,12
+PRD0119,Wh-Delhi-02,75308,4603,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0110,Wh-Kolkata-05,80379,64,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0175,Wh-Delhi-02,118448,205,SUP042,Biocon Distributors 42,23
+PRD0173,Wh-Mumbai-03,81631,2091,SUP037,Glenmark Distributors 37,35
+PRD0254,Wh-Delhi-02,80395,245,SUP008,Mankind Pharma Distributors 8,36
+PRD0151,Wh-Hyderabad-04,83876,3761,SUP046,Sun Pharma Distributors 46,11
+PRD0273,Not Available,79229,1457,SUP039,Alkem Labs Distributors 39,7
+PRD0231,Wh-Jaipur-01,105985,4927,SUP045,Glenmark Distributors 45,26
+PRD0279,Wh-Jaipur-01,74380,191,SUP042,Biocon Distributors 42,22
+PRD0025,Wh-Mumbai-03,85024,116,SUP006,Torrent Pharma Distributors 6,20
+PRD0188,Wh-Mumbai-03,83064,3533,SUP003,Torrent Pharma Distributors 3,28
+PRD0291,Wh-Delhi-02,101159,2353,SUP037,Glenmark Distributors 37,35
+PRD0090,Wh-Kolkata-05,84367,228,SUP019,Lupin Distributors 19,34
+PRD0088,Not Available,96271,883,SUP036,Lupin Distributors 36,9
+PRD0043,Wh-Mumbai-03,75816,4460,SUP028,Mankind Pharma Distributors 28,24
+PRD0207,Not Available,66082,4055,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0039,Wh-Mumbai-03,73580,1205,SUP034,Sun Pharma Distributors 34,26
+PRD0180,Wh-Mumbai-03,103363,4117,SUP022,Glenmark Distributors 22,35
+PRD0249,Wh-Hyderabad-04,86853,1229,SUP027,Torrent Pharma Distributors 27,19
+PRD0026,Wh-Jaipur-01,70199,4614,SUP003,Torrent Pharma Distributors 3,26
+PRD0193,Wh-Delhi-02,89708,3037,SUP023,Sun Pharma Distributors 23,27
+PRD0053,Wh-Jaipur-01,65148,4269,SUP019,Lupin Distributors 19,38
+PRD0279,Wh-Hyderabad-04,74380,3025,SUP026,Cadila Healthcare Distributors 26,33
+PRD0201,Wh-Mumbai-03,119168,1788,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0103,Wh-Delhi-02,84433,2103,SUP010,Alkem Labs Distributors 10,26
+PRD0026,Wh-Kolkata-05,70199,830,SUP015,Zydus Lifesciences Distributors 15,21
+PRD0192,Wh-Delhi-02,76195,4851,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0277,Wh-Mumbai-03,84809,4373,SUP015,Zydus Lifesciences Distributors 15,22
+PRD0241,Wh-Jaipur-01,80306,1868,SUP014,Alkem Labs Distributors 14,32
+PRD0197,Wh-Jaipur-01,87808,1417,SUP030,Biocon Distributors 30,6
+PRD0283,Wh-Kolkata-05,96829,2192,SUP008,Mankind Pharma Distributors 8,39
+PRD0040,Wh-Hyderabad-04,91711,2181,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0227,Wh-Kolkata-05,102772,3242,SUP035,Sun Pharma Distributors 35,13
+PRD0017,Wh-Hyderabad-04,79200,2158,SUP045,Glenmark Distributors 45,28
+PRD0004,Wh-Jaipur-01,59674,271,SUP019,Lupin Distributors 19,38
+PRD0077,Wh-Delhi-02,97188,540,SUP023,Sun Pharma Distributors 23,30
+PRD0223,Not Available,97190,1511,SUP021,Cipla Distributors 21,34
+PRD0042,Wh-Delhi-02,89979,2666,SUP030,Not Available,10
+PRD0029,Wh-Mumbai-03,80305,3753,SUP002,Biocon Distributors 2,33
+PRD0073,Not Available,98953,4719,SUP004,Cipla Distributors 4,5
+PRD0108,Wh-Kolkata-05,84268,4250,SUP060,Alkem Labs Distributors 60,34
+PRD0017,Wh-Jaipur-01,79200,4593,SUP001,Biocon Distributors 1,12
+PRD0143,Wh-Hyderabad-04,136499,961,SUP045,Glenmark Distributors 45,26
+PRD0037,Wh-Hyderabad-04,118684,3827,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0257,Wh-Jaipur-01,97894,3663,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0225,Wh-Mumbai-03,89379,4773,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0195,Not Available,78760,1505,SUP013,Zydus Lifesciences Distributors 13,34
+PRD0023,Not Available,119453,88,SUP001,Not Available,16
+PRD0019,Wh-Delhi-02,67327,1321,SUP025,Mankind Pharma Distributors 25,37
+PRD0126,Wh-Jaipur-01,73025,438,SUP011,Not Available,11
+PRD0171,Wh-Mumbai-03,79972,1932,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0291,Wh-Mumbai-03,101159,1143,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0234,Wh-Hyderabad-04,112794,226,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0024,Wh-Jaipur-01,89074,4049,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0145,Wh-Jaipur-01,85782,3434,SUP011,Biocon Distributors 11,11
+PRD0130,Wh-Delhi-02,95931,3798,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0264,Not Available,83767,1697,SUP016,Alkem Labs Distributors 16,21
+PRD0083,Wh-Mumbai-03,92393,327,SUP022,Glenmark Distributors 22,33
+PRD0288,Wh-Delhi-02,92064,2251,SUP032,Zydus Lifesciences Distributors 32,22
+PRD0287,Wh-Kolkata-05,102169,3523,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0277,Wh-Jaipur-01,84809,3600,SUP041,Not Available,17
+PRD0183,Wh-Kolkata-05,110603,3814,SUP029,Aurobindo Pharma Distributors 29,22
+PRD0186,Wh-Hyderabad-04,68130,2144,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0161,Wh-Delhi-02,73539,1198,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0024,Wh-Hyderabad-04,89074,3629,SUP004,Cipla Distributors 4,7
+PRD0008,Wh-Hyderabad-04,110332,2086,SUP043,Mankind Pharma Distributors 43,8
+PRD0080,Wh-Mumbai-03,109855,1418,SUP016,Alkem Labs Distributors 16,19
+PRD0198,Wh-Kolkata-05,92413,4298,SUP002,Biocon Distributors 2,32
+PRD0258,Wh-Delhi-02,82164,157,SUP002,Biocon Distributors 2,35
+PRD0091,Wh-Kolkata-05,75865,4553,SUP025,Mankind Pharma Distributors 25,37
+PRD0093,Wh-Delhi-02,68572,1282,SUP004,Cipla Distributors 4,4
+PRD0218,Wh-Mumbai-03,77625,1799,SUP026,Cadila Healthcare Distributors 26,31
+PRD0077,Wh-Kolkata-05,97188,1087,SUP057,Mankind Pharma Distributors 57,33
+PRD0036,Wh-Delhi-02,83516,473,SUP010,Alkem Labs Distributors 10,26
+PRD0088,Wh-Mumbai-03,96271,1404,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0072,Wh-Hyderabad-04,73451,3418,SUP043,Mankind Pharma Distributors 43,7
+PRD0117,Wh-Delhi-02,63165,1646,SUP020,Cipla Distributors 20,39
+PRD0057,Wh-Delhi-02,103627,3349,SUP025,Mankind Pharma Distributors 25,33
+PRD0056,Not Available,96109,1654,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0013,Wh-Mumbai-03,82924,2375,SUP043,Mankind Pharma Distributors 43,4
+PRD0260,Wh-Mumbai-03,90508,3060,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0215,Not Available,68641,1905,SUP030,Biocon Distributors 30,9
+PRD0195,Wh-Jaipur-01,78760,4480,SUP022,Glenmark Distributors 22,33
+PRD0179,Wh-Hyderabad-04,96474,2353,SUP040,Lupin Distributors 40,3
+PRD0028,Wh-Kolkata-05,90835,1436,SUP026,Cadila Healthcare Distributors 26,29
+PRD0248,Wh-Hyderabad-04,123150,2143,SUP024,Sun Pharma Distributors 24,27
+PRD0194,Wh-Kolkata-05,94059,2118,SUP011,Biocon Distributors 11,13
+PRD0016,Wh-Delhi-02,91876,2827,SUP021,Cipla Distributors 21,34
+PRD0183,Wh-Delhi-02,110603,3338,SUP025,Mankind Pharma Distributors 25,34
+PRD0239,Wh-Mumbai-03,91299,4330,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0009,Wh-Hyderabad-04,79729,3240,SUP016,Alkem Labs Distributors 16,21
+PRD0114,Wh-Hyderabad-04,80723,1458,SUP022,Glenmark Distributors 22,36
+PRD0192,Wh-Mumbai-03,76195,260,SUP019,Lupin Distributors 19,35
+PRD0254,Not Available,80395,490,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0228,Wh-Hyderabad-04,111658,742,SUP004,Cipla Distributors 4,7
+PRD0163,Wh-Jaipur-01,84653,4496,SUP020,Cipla Distributors 20,38
+PRD0110,Wh-Delhi-02,80379,4453,SUP005,Sun Pharma Distributors 5,30
+PRD0211,Wh-Delhi-02,77675,3263,SUP011,Biocon Distributors 11,14
+PRD0144,Wh-Hyderabad-04,66777,4527,SUP015,Zydus Lifesciences Distributors 15,22
+PRD0120,Wh-Kolkata-05,88430,4477,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0061,Not Available,75870,574,SUP035,Sun Pharma Distributors 35,11
+PRD0170,Wh-Kolkata-05,130445,3677,SUP005,Sun Pharma Distributors 5,27
+PRD0197,Not Available,87808,3638,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0017,Wh-Mumbai-03,79200,4451,SUP056,Cipla Distributors 56,34
+PRD0287,Wh-Hyderabad-04,102169,170,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0232,Not Available,79178,3996,SUP043,Mankind Pharma Distributors 43,5
+PRD0083,Not Available,92393,2046,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0261,Wh-Kolkata-05,83704,316,SUP042,Biocon Distributors 42,20
+PRD0284,Wh-Hyderabad-04,85948,3548,SUP056,Cipla Distributors 56,32
+PRD0236,Wh-Mumbai-03,96112,4194,SUP042,Biocon Distributors 42,23
+PRD0234,Wh-Mumbai-03,112794,536,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0107,Wh-Jaipur-01,73889,144,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0021,Wh-Kolkata-05,119690,4734,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0091,Wh-Jaipur-01,75865,180,SUP027,Torrent Pharma Distributors 27,19
+PRD0048,Wh-Jaipur-01,72007,2159,SUP022,Glenmark Distributors 22,32
+PRD0076,Wh-Delhi-02,83884,1682,SUP024,Sun Pharma Distributors 24,25
+PRD0059,Wh-Mumbai-03,91993,968,SUP057,Mankind Pharma Distributors 57,35
+PRD0275,Wh-Delhi-02,103363,2235,SUP036,Lupin Distributors 36,5
+PRD0115,Wh-Delhi-02,109904,771,SUP053,Mankind Pharma Distributors 53,15
+PRD0065,Not Available,85187,882,SUP056,Cipla Distributors 56,32
+PRD0001,Wh-Hyderabad-04,102829,4075,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0174,Wh-Jaipur-01,93069,3821,SUP053,Mankind Pharma Distributors 53,11
+PRD0115,Wh-Kolkata-05,109904,1537,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0205,Wh-Mumbai-03,76242,3768,SUP060,Alkem Labs Distributors 60,34
+PRD0025,Wh-Kolkata-05,85024,1145,SUP003,Torrent Pharma Distributors 3,27
+PRD0187,Wh-Hyderabad-04,76539,1326,SUP008,Mankind Pharma Distributors 8,38
+PRD0218,Wh-Delhi-02,77625,1171,SUP027,Torrent Pharma Distributors 27,19
+PRD0269,Wh-Kolkata-05,99817,1633,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0114,Wh-Delhi-02,80723,999,SUP022,Glenmark Distributors 22,34
+PRD0033,Wh-Kolkata-05,103169,4773,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0148,Wh-Kolkata-05,83821,862,SUP027,Torrent Pharma Distributors 27,17
+PRD0084,Wh-Kolkata-05,128876,3522,SUP053,Mankind Pharma Distributors 53,11
+PRD0187,Wh-Mumbai-03,76539,3548,SUP027,Torrent Pharma Distributors 27,18
+PRD0219,Wh-Delhi-02,82878,4745,SUP026,Not Available,30
+PRD0169,Wh-Jaipur-01,96012,3331,SUP059,Glenmark Distributors 59,37
+PRD0217,Not Available,105231,1761,SUP049,Lupin Distributors 49,3
+PRD0075,Wh-Delhi-02,66811,4675,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0115,Wh-Mumbai-03,109904,3904,SUP039,Alkem Labs Distributors 39,4
+PRD0053,Wh-Delhi-02,65148,772,SUP023,Sun Pharma Distributors 23,29
+PRD0172,Wh-Jaipur-01,83186,3449,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0234,Not Available,112794,4797,SUP024,Sun Pharma Distributors 24,27
+PRD0041,Wh-Hyderabad-04,76209,2202,SUP037,Glenmark Distributors 37,39
+PRD0149,Wh-Jaipur-01,116927,4446,SUP019,Lupin Distributors 19,37
+PRD0185,Wh-Delhi-02,87290,3852,SUP028,Mankind Pharma Distributors 28,25
+PRD0243,Wh-Hyderabad-04,86795,3823,SUP030,Biocon Distributors 30,10
+PRD0251,Wh-Delhi-02,106864,3857,SUP006,Torrent Pharma Distributors 6,21
+PRD0297,Wh-Kolkata-05,83291,4244,SUP012,Cadila Healthcare Distributors 12,9
+PRD0083,Wh-Kolkata-05,92393,2902,SUP054,Not Available,6
+PRD0090,Wh-Delhi-02,84367,539,SUP054,Torrent Pharma Distributors 54,6
+PRD0198,Not Available,92413,2019,SUP059,Glenmark Distributors 59,37
+PRD0110,Not Available,80379,2622,SUP009,Zydus Lifesciences Distributors 9,5
+PRD0009,Wh-Jaipur-01,79729,244,SUP015,Not Available,22
+PRD0173,Wh-Hyderabad-04,81631,393,SUP060,Not Available,35
+PRD0128,Wh-Jaipur-01,104029,1590,SUP027,Torrent Pharma Distributors 27,18
+PRD0018,Not Available,75938,3320,SUP014,Alkem Labs Distributors 14,32
+PRD0265,Wh-Kolkata-05,94024,4390,SUP023,Sun Pharma Distributors 23,26
+PRD0175,Not Available,118448,3251,SUP023,Sun Pharma Distributors 23,27
+PRD0139,Wh-Jaipur-01,88577,164,SUP002,Biocon Distributors 2,35
+PRD0083,Wh-Delhi-02,92393,1766,SUP045,Glenmark Distributors 45,28
+PRD0026,Wh-Mumbai-03,70199,3579,SUP049,Lupin Distributors 49,5
+PRD0038,Not Available,84695,4489,SUP027,Torrent Pharma Distributors 27,20
+PRD0099,Not Available,119173,2002,SUP019,Lupin Distributors 19,37
+PRD0105,Wh-Mumbai-03,76643,3010,SUP014,Alkem Labs Distributors 14,34
+PRD0112,Not Available,78915,1994,SUP060,Alkem Labs Distributors 60,36
+PRD0264,Wh-Hyderabad-04,83767,2030,SUP034,Sun Pharma Distributors 34,27
+PRD0221,Wh-Delhi-02,81406,1216,SUP010,Alkem Labs Distributors 10,27
+PRD0010,Wh-Kolkata-05,112781,947,SUP016,Alkem Labs Distributors 16,21
+PRD0271,Wh-Mumbai-03,76504,1755,SUP054,Torrent Pharma Distributors 54,6
+PRD0270,Wh-Kolkata-05,89784,617,SUP022,Not Available,35
+PRD0179,Wh-Delhi-02,96474,99,SUP060,Alkem Labs Distributors 60,33
+PRD0246,Wh-Delhi-02,83287,3552,SUP016,Alkem Labs Distributors 16,20
+PRD0200,Wh-Mumbai-03,87297,3253,SUP057,Mankind Pharma Distributors 57,33
+PRD0118,Wh-Kolkata-05,94298,3711,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0039,Not Available,73580,4688,SUP001,Biocon Distributors 1,14
+PRD0295,Wh-Hyderabad-04,104180,1480,SUP008,Mankind Pharma Distributors 8,37
+PRD0220,Wh-Mumbai-03,76378,706,SUP030,Biocon Distributors 30,7
+PRD0064,Not Available,73702,4961,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0071,Wh-Mumbai-03,90015,1183,SUP021,Not Available,35
+PRD0176,Wh-Delhi-02,95685,2038,SUP016,Alkem Labs Distributors 16,22
+PRD0152,Wh-Hyderabad-04,72298,1693,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0007,Not Available,115854,1615,SUP060,Alkem Labs Distributors 60,35
+PRD0296,Wh-Jaipur-01,111212,1415,SUP053,Mankind Pharma Distributors 53,14
+PRD0274,Wh-Mumbai-03,79056,4351,SUP003,Torrent Pharma Distributors 3,28
+PRD0074,Wh-Kolkata-05,83717,521,SUP001,Biocon Distributors 1,15
+PRD0253,Wh-Mumbai-03,108498,3066,SUP055,Dr. Reddy'S Distributors 55,24
+PRD0102,Not Available,72813,520,SUP029,Aurobindo Pharma Distributors 29,24
+PRD0078,Wh-Kolkata-05,110923,664,SUP052,Torrent Pharma Distributors 52,7
+PRD0108,Wh-Jaipur-01,84268,3779,SUP041,Alkem Labs Distributors 41,18
+PRD0159,Wh-Kolkata-05,80119,780,SUP008,Mankind Pharma Distributors 8,38
+PRD0212,Wh-Delhi-02,75418,1661,SUP031,Aurobindo Pharma Distributors 31,9
+PRD0045,Wh-Kolkata-05,64337,2836,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0262,Wh-Jaipur-01,98320,2200,SUP020,Cipla Distributors 20,36
+PRD0283,Wh-Mumbai-03,96829,4286,SUP059,Glenmark Distributors 59,37
+PRD0272,Wh-Mumbai-03,65881,3896,SUP039,Alkem Labs Distributors 39,7
+PRD0031,Wh-Hyderabad-04,100894,3325,SUP020,Cipla Distributors 20,38
+PRD0042,Wh-Mumbai-03,89979,144,SUP033,Zydus Lifesciences Distributors 33,11
+PRD0187,Wh-Kolkata-05,76539,777,SUP038,Not Available,7
+PRD0123,Not Available,79784,1321,SUP060,Alkem Labs Distributors 60,37
+PRD0036,Wh-Jaipur-01,83516,3031,SUP051,Glenmark Distributors 51,17
+PRD0018,Wh-Jaipur-01,75938,569,SUP016,Alkem Labs Distributors 16,23
+PRD0013,Wh-Kolkata-05,82924,419,SUP011,Biocon Distributors 11,15
+PRD0137,Not Available,95880,553,SUP008,Mankind Pharma Distributors 8,38
+PRD0040,Wh-Delhi-02,91711,351,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0028,Not Available,90835,2333,SUP040,Lupin Distributors 40,4
+PRD0240,Wh-Mumbai-03,87671,992,SUP019,Lupin Distributors 19,37
+PRD0046,Wh-Delhi-02,91829,4454,SUP027,Torrent Pharma Distributors 27,18
+PRD0064,Wh-Delhi-02,73702,786,SUP025,Mankind Pharma Distributors 25,35
+PRD0160,Wh-Kolkata-05,87415,2709,SUP002,Biocon Distributors 2,34
+PRD0279,Wh-Mumbai-03,74380,2888,SUP006,Torrent Pharma Distributors 6,19
+PRD0114,Wh-Kolkata-05,80723,2325,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0028,Wh-Jaipur-01,90835,4930,SUP001,Biocon Distributors 1,15
+PRD0095,Wh-Kolkata-05,116238,3398,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0097,Wh-Jaipur-01,90255,4431,SUP045,Glenmark Distributors 45,29
+PRD0093,Wh-Jaipur-01,68572,2403,SUP060,Alkem Labs Distributors 60,37
+PRD0158,Wh-Jaipur-01,104469,4054,SUP051,Glenmark Distributors 51,19
+PRD0175,Wh-Hyderabad-04,118448,3372,SUP043,Mankind Pharma Distributors 43,7
+PRD0161,Wh-Jaipur-01,73539,4468,SUP052,Torrent Pharma Distributors 52,9
+PRD0061,Wh-Delhi-02,75870,1128,SUP057,Mankind Pharma Distributors 57,33
+PRD0254,Wh-Mumbai-03,80395,2904,SUP046,Sun Pharma Distributors 46,13
+PRD0120,Not Available,88430,583,SUP025,Mankind Pharma Distributors 25,35
+PRD0052,Wh-Kolkata-05,71384,3666,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0155,Wh-Hyderabad-04,83764,3292,SUP022,Glenmark Distributors 22,32
+PRD0243,Wh-Mumbai-03,86795,1998,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0142,Wh-Delhi-02,91574,2362,SUP005,Sun Pharma Distributors 5,29
+PRD0155,Wh-Delhi-02,83764,2793,SUP012,Cadila Healthcare Distributors 12,10
+PRD0055,Wh-Mumbai-03,84966,1057,SUP026,Not Available,33
+PRD0219,Wh-Jaipur-01,82878,1276,SUP022,Glenmark Distributors 22,34
+PRD0158,Wh-Kolkata-05,104469,3088,SUP029,Aurobindo Pharma Distributors 29,22
+PRD0006,Wh-Mumbai-03,89696,4309,SUP024,Sun Pharma Distributors 24,23
+PRD0152,Wh-Delhi-02,72298,1264,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0254,Wh-Hyderabad-04,80395,4664,SUP027,Torrent Pharma Distributors 27,17
+PRD0155,Wh-Mumbai-03,83764,2200,SUP035,Sun Pharma Distributors 35,14
+PRD0134,Wh-Jaipur-01,67537,3685,SUP002,Biocon Distributors 2,34
+PRD0299,Wh-Kolkata-05,84895,4730,SUP036,Lupin Distributors 36,8
+PRD0300,Wh-Jaipur-01,99053,4532,SUP039,Alkem Labs Distributors 39,3
+PRD0230,Wh-Kolkata-05,89882,1965,SUP041,Alkem Labs Distributors 41,16
+PRD0072,Not Available,73451,3164,SUP015,Not Available,22
+PRD0050,Wh-Hyderabad-04,78948,2537,SUP024,Sun Pharma Distributors 24,27
+PRD0146,Wh-Delhi-02,131799,3199,SUP020,Cipla Distributors 20,37
+PRD0184,Wh-Hyderabad-04,86476,3906,SUP020,Cipla Distributors 20,36
+PRD0167,Wh-Jaipur-01,82531,421,SUP057,Mankind Pharma Distributors 57,36
+PRD0068,Wh-Kolkata-05,93143,3228,SUP059,Glenmark Distributors 59,38
+PRD0111,Wh-Jaipur-01,97377,2062,SUP052,Torrent Pharma Distributors 52,11
+PRD0238,Wh-Hyderabad-04,78238,4654,SUP020,Cipla Distributors 20,38
+PRD0169,Wh-Delhi-02,96012,4364,SUP034,Sun Pharma Distributors 34,30
+PRD0268,Not Available,74361,1787,SUP030,Biocon Distributors 30,9
+PRD0097,Not Available,90255,122,SUP014,Alkem Labs Distributors 14,32
+PRD0078,Wh-Hyderabad-04,110923,1975,SUP049,Lupin Distributors 49,3
+PRD0022,Wh-Kolkata-05,87297,3676,SUP026,Cadila Healthcare Distributors 26,32
+PRD0160,Wh-Mumbai-03,87415,1959,SUP041,Alkem Labs Distributors 41,16
+PRD0119,Not Available,75308,3698,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0147,Wh-Mumbai-03,77040,205,SUP022,Glenmark Distributors 22,35
+PRD0194,Wh-Hyderabad-04,94059,2095,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0240,Not Available,87671,180,SUP031,Aurobindo Pharma Distributors 31,11
+PRD0206,Wh-Mumbai-03,70941,1663,SUP052,Torrent Pharma Distributors 52,7
+PRD0201,Wh-Delhi-02,119168,3330,SUP023,Sun Pharma Distributors 23,26
+PRD0121,Wh-Jaipur-01,88961,2849,SUP014,Alkem Labs Distributors 14,34
+PRD0281,Wh-Hyderabad-04,63955,3984,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0047,Not Available,112943,2103,SUP027,Torrent Pharma Distributors 27,20
+PRD0258,Wh-Kolkata-05,82164,943,SUP045,Glenmark Distributors 45,26
+PRD0109,Wh-Kolkata-05,97609,3240,SUP019,Lupin Distributors 19,36
+PRD0029,Wh-Hyderabad-04,80305,3962,SUP051,Glenmark Distributors 51,21
+PRD0126,Wh-Hyderabad-04,73025,2813,SUP055,Dr. Reddy'S Distributors 55,20
+PRD0236,Wh-Kolkata-05,96112,1148,SUP035,Sun Pharma Distributors 35,15
+PRD0207,Wh-Kolkata-05,66082,3554,SUP056,Cipla Distributors 56,31
+PRD0262,Wh-Hyderabad-04,98320,2317,SUP042,Biocon Distributors 42,20
+PRD0142,Wh-Jaipur-01,91574,2536,SUP005,Sun Pharma Distributors 5,28
+PRD0278,Not Available,66965,1029,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0122,Wh-Hyderabad-04,115285,4051,SUP050,Dr. Reddy'S Distributors 50,6
+PRD0213,Wh-Hyderabad-04,79502,2721,SUP036,Lupin Distributors 36,5
+PRD0263,Not Available,92669,2279,SUP022,Glenmark Distributors 22,35
+PRD0162,Wh-Jaipur-01,91442,2041,SUP024,Sun Pharma Distributors 24,23
+PRD0278,Wh-Mumbai-03,66965,3545,SUP060,Alkem Labs Distributors 60,35
+PRD0186,Wh-Mumbai-03,68130,160,SUP024,Sun Pharma Distributors 24,25
+PRD0200,Wh-Delhi-02,87297,1217,SUP027,Torrent Pharma Distributors 27,16
+PRD0040,Not Available,91711,2413,SUP040,Lupin Distributors 40,3
+PRD0272,Wh-Jaipur-01,65881,180,SUP025,Mankind Pharma Distributors 25,36
+PRD0172,Not Available,83186,1985,SUP027,Torrent Pharma Distributors 27,16
+PRD0124,Not Available,73093,4766,SUP052,Torrent Pharma Distributors 52,10
+PRD0298,Wh-Delhi-02,87344,3454,SUP031,Aurobindo Pharma Distributors 31,11
+PRD0020,Wh-Kolkata-05,84924,1184,SUP046,Sun Pharma Distributors 46,9
+PRD0256,Wh-Hyderabad-04,77992,563,SUP059,Glenmark Distributors 59,37
+PRD0072,Wh-Kolkata-05,73451,3815,SUP040,Lupin Distributors 40,4
+PRD0092,Wh-Jaipur-01,126516,4954,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0241,Not Available,80306,4634,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0211,Wh-Jaipur-01,77675,2898,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0012,Wh-Hyderabad-04,84624,3640,SUP001,Biocon Distributors 1,12
+PRD0137,Wh-Mumbai-03,95880,4855,SUP025,Mankind Pharma Distributors 25,33
+PRD0274,Not Available,79056,1075,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0223,Wh-Hyderabad-04,97190,1699,SUP051,Not Available,21
+PRD0184,Wh-Delhi-02,86476,4434,SUP016,Alkem Labs Distributors 16,19
+PRD0228,Wh-Mumbai-03,111658,4082,SUP005,Sun Pharma Distributors 5,30
+PRD0295,Wh-Jaipur-01,104180,1158,SUP010,Alkem Labs Distributors 10,27
+PRD0042,Wh-Kolkata-05,89979,4160,SUP035,Sun Pharma Distributors 35,12
+PRD0028,Wh-Mumbai-03,90835,1354,SUP041,Alkem Labs Distributors 41,17
+PRD0281,Not Available,63955,4952,SUP010,Alkem Labs Distributors 10,25
+PRD0060,Wh-Delhi-02,95234,4300,SUP043,Mankind Pharma Distributors 43,5
+PRD0281,Wh-Mumbai-03,63955,547,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0014,Wh-Jaipur-01,82838,4000,SUP052,Torrent Pharma Distributors 52,8
+PRD0272,Wh-Delhi-02,65881,1204,SUP014,Alkem Labs Distributors 14,32
+PRD0003,Wh-Delhi-02,97334,4156,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0006,Not Available,89696,1068,SUP008,Mankind Pharma Distributors 8,36
+PRD0167,Wh-Hyderabad-04,82531,4470,SUP042,Biocon Distributors 42,21
+PRD0132,Wh-Delhi-02,72154,3998,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0034,Not Available,91074,2307,SUP034,Sun Pharma Distributors 34,28
+PRD0126,Wh-Kolkata-05,73025,637,SUP059,Glenmark Distributors 59,38
+PRD0239,Wh-Kolkata-05,91299,3032,SUP041,Alkem Labs Distributors 41,16
+PRD0079,Wh-Hyderabad-04,88233,4547,SUP046,Sun Pharma Distributors 46,9
+PRD0147,Wh-Kolkata-05,77040,1400,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0290,Wh-Mumbai-03,68230,475,SUP015,Zydus Lifesciences Distributors 15,19
+PRD0023,Wh-Jaipur-01,119453,254,SUP053,Mankind Pharma Distributors 53,14
+PRD0035,Wh-Kolkata-05,96435,3033,SUP019,Lupin Distributors 19,35
+PRD0216,Wh-Kolkata-05,121426,1632,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0219,Not Available,82878,3774,SUP030,Biocon Distributors 30,9
+PRD0275,Wh-Hyderabad-04,103363,1973,SUP025,Mankind Pharma Distributors 25,35
+PRD0097,Wh-Mumbai-03,90255,3015,SUP011,Biocon Distributors 11,13
+PRD0132,Wh-Kolkata-05,72154,1084,SUP053,Mankind Pharma Distributors 53,14
+PRD0063,Wh-Hyderabad-04,107613,4334,SUP017,Zydus Lifesciences Distributors 17,4
+PRD0037,Not Available,118684,3617,SUP047,Aurobindo Pharma Distributors 47,8
+PRD0058,Wh-Delhi-02,72178,2807,SUP023,Not Available,27
+PRD0171,Wh-Delhi-02,79972,3681,SUP040,Lupin Distributors 40,5
+PRD0075,Wh-Jaipur-01,66811,1437,SUP038,Aurobindo Pharma Distributors 38,5
+PRD0110,Wh-Jaipur-01,80379,4575,SUP021,Cipla Distributors 21,35
+PRD0104,Wh-Jaipur-01,135199,1339,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0250,Not Available,69121,4284,SUP047,Aurobindo Pharma Distributors 47,9
+PRD0207,Wh-Mumbai-03,66082,3083,SUP060,Alkem Labs Distributors 60,34
+PRD0008,Not Available,110332,231,SUP019,Lupin Distributors 19,37
+PRD0269,Wh-Jaipur-01,99817,4191,SUP019,Lupin Distributors 19,37
+PRD0215,Wh-Hyderabad-04,68641,160,SUP037,Glenmark Distributors 37,39
+PRD0120,Wh-Delhi-02,88430,3076,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0286,Wh-Mumbai-03,90478,3974,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0158,Wh-Delhi-02,104469,4438,SUP015,Zydus Lifesciences Distributors 15,20
+PRD0196,Wh-Kolkata-05,81031,829,SUP018,Aurobindo Pharma Distributors 18,21
+PRD0151,Wh-Jaipur-01,83876,1992,SUP060,Alkem Labs Distributors 60,35
+PRD0245,Wh-Hyderabad-04,107075,1324,SUP001,Biocon Distributors 1,15
+PRD0253,Wh-Hyderabad-04,108498,3849,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0023,Wh-Mumbai-03,119453,4922,SUP015,Zydus Lifesciences Distributors 15,22
+PRD0292,Wh-Jaipur-01,82078,669,SUP017,Zydus Lifesciences Distributors 17,5
+PRD0010,Wh-Hyderabad-04,112781,2458,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0071,Wh-Hyderabad-04,90015,250,SUP054,Torrent Pharma Distributors 54,9
+PRD0059,Wh-Delhi-02,91993,387,SUP048,Dr. Reddy'S Distributors 48,17
+PRD0011,Wh-Delhi-02,87551,4034,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0215,Wh-Mumbai-03,68641,2557,SUP037,Glenmark Distributors 37,37
+PRD0157,Wh-Hyderabad-04,81193,728,SUP016,Alkem Labs Distributors 16,23
+PRD0246,Wh-Hyderabad-04,83287,2101,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0069,Wh-Jaipur-01,76853,2510,SUP001,Biocon Distributors 1,14
+PRD0168,Wh-Delhi-02,87240,2635,SUP045,Glenmark Distributors 45,27
+PRD0134,Not Available,67537,4072,SUP015,Zydus Lifesciences Distributors 15,21
+PRD0242,Not Available,88478,2049,SUP053,Mankind Pharma Distributors 53,12
+PRD0178,Wh-Hyderabad-04,79556,1863,SUP037,Glenmark Distributors 37,37
+PRD0199,Wh-Kolkata-05,102446,2684,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0027,Wh-Hyderabad-04,77670,3293,SUP052,Torrent Pharma Distributors 52,11
+PRD0211,Wh-Hyderabad-04,77675,1935,SUP046,Sun Pharma Distributors 46,13
+PRD0063,Wh-Mumbai-03,107613,2060,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0088,Wh-Jaipur-01,96271,1435,SUP019,Lupin Distributors 19,37
+PRD0216,Wh-Jaipur-01,121426,2977,SUP028,Mankind Pharma Distributors 28,24
+PRD0147,Wh-Delhi-02,77040,2796,SUP041,Alkem Labs Distributors 41,20
+PRD0267,Wh-Delhi-02,92488,3760,SUP046,Sun Pharma Distributors 46,10
+PRD0194,Wh-Delhi-02,94059,2978,SUP058,Zydus Lifesciences Distributors 58,41
+PRD0191,Wh-Hyderabad-04,89815,2952,SUP021,Cipla Distributors 21,35
+PRD0019,Not Available,67327,533,SUP046,Sun Pharma Distributors 46,13
+PRD0014,Wh-Hyderabad-04,82838,3941,SUP039,Not Available,6
+PRD0295,Wh-Delhi-02,104180,1609,SUP035,Sun Pharma Distributors 35,14
+PRD0098,Wh-Hyderabad-04,89349,3459,SUP013,Zydus Lifesciences Distributors 13,35
+PRD0228,Wh-Jaipur-01,111658,2625,SUP052,Torrent Pharma Distributors 52,10
+PRD0210,Wh-Jaipur-01,70985,2105,SUP046,Sun Pharma Distributors 46,12
+PRD0293,Not Available,110992,3882,SUP045,Glenmark Distributors 45,26
+PRD0280,Wh-Mumbai-03,64371,4435,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0159,Not Available,80119,805,SUP035,Sun Pharma Distributors 35,13
+PRD0209,Wh-Kolkata-05,94081,1867,SUP019,Lupin Distributors 19,34
+PRD0207,Wh-Delhi-02,66082,2989,SUP056,Cipla Distributors 56,33
+PRD0183,Wh-Hyderabad-04,110603,972,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0057,Wh-Jaipur-01,103627,3124,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0099,Wh-Delhi-02,119173,3504,SUP036,Lupin Distributors 36,6
+PRD0231,Wh-Hyderabad-04,105985,1598,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0108,Wh-Mumbai-03,84268,2869,SUP037,Glenmark Distributors 37,36
+PRD0073,Wh-Delhi-02,98953,3195,SUP012,Cadila Healthcare Distributors 12,10
+PRD0131,Wh-Hyderabad-04,83130,1319,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0215,Wh-Kolkata-05,68641,784,SUP017,Zydus Lifesciences Distributors 17,2
+PRD0166,Wh-Delhi-02,86083,3957,SUP026,Cadila Healthcare Distributors 26,31
+PRD0292,Wh-Kolkata-05,82078,3270,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0066,Wh-Mumbai-03,91246,2550,SUP054,Torrent Pharma Distributors 54,7
+PRD0134,Wh-Hyderabad-04,67537,632,SUP024,Sun Pharma Distributors 24,27
+PRD0269,Wh-Hyderabad-04,99817,4402,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0133,Wh-Mumbai-03,99291,4053,SUP035,Sun Pharma Distributors 35,13
+PRD0011,Wh-Hyderabad-04,87551,4255,SUP028,Mankind Pharma Distributors 28,28
+PRD0029,Wh-Kolkata-05,80305,2198,SUP011,Biocon Distributors 11,12
+PRD0242,Wh-Mumbai-03,88478,787,SUP024,Sun Pharma Distributors 24,27
+PRD0263,Wh-Hyderabad-04,92669,2697,SUP051,Glenmark Distributors 51,17
+PRD0039,Wh-Hyderabad-04,73580,3395,SUP039,Alkem Labs Distributors 39,5
+PRD0286,Wh-Jaipur-01,90478,1151,SUP008,Mankind Pharma Distributors 8,37
+PRD0219,Wh-Hyderabad-04,82878,3409,SUP052,Torrent Pharma Distributors 52,10
+PRD0098,Wh-Mumbai-03,89349,4170,SUP042,Biocon Distributors 42,20
+PRD0071,Wh-Jaipur-01,90015,4901,SUP052,Torrent Pharma Distributors 52,10
+PRD0216,Wh-Hyderabad-04,121426,941,SUP034,Sun Pharma Distributors 34,27
+PRD0109,Not Available,97609,1692,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0093,Not Available,68572,3577,SUP026,Cadila Healthcare Distributors 26,33
+PRD0264,Wh-Jaipur-01,83767,943,SUP057,Mankind Pharma Distributors 57,37
+PRD0066,Wh-Hyderabad-04,91246,784,SUP030,Biocon Distributors 30,6
+PRD0007,Wh-Hyderabad-04,115854,423,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0221,Wh-Mumbai-03,81406,4093,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0170,Wh-Jaipur-01,130445,2831,SUP045,Glenmark Distributors 45,25
+PRD0211,Wh-Kolkata-05,77675,1546,SUP040,Lupin Distributors 40,6
+PRD0289,Not Available,98567,2279,SUP028,Mankind Pharma Distributors 28,25
+PRD0264,Wh-Mumbai-03,83767,3386,SUP024,Sun Pharma Distributors 24,23
+PRD0172,Wh-Hyderabad-04,83186,500,SUP035,Sun Pharma Distributors 35,13
+PRD0191,Wh-Kolkata-05,89815,3370,SUP024,Sun Pharma Distributors 24,23
+PRD0104,Wh-Mumbai-03,135199,130,SUP027,Torrent Pharma Distributors 27,16
+PRD0300,Wh-Kolkata-05,99053,4013,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0163,Wh-Delhi-02,84653,1771,SUP035,Sun Pharma Distributors 35,12
+PRD0022,Wh-Mumbai-03,87297,3865,SUP027,Torrent Pharma Distributors 27,18
+PRD0184,Wh-Kolkata-05,86476,2268,SUP007,Dr. Reddy'S Distributors 7,32
+PRD0188,Wh-Delhi-02,83064,1037,SUP045,Glenmark Distributors 45,29
+PRD0255,Wh-Kolkata-05,74001,908,SUP008,Mankind Pharma Distributors 8,36
+PRD0205,Wh-Hyderabad-04,76242,4198,SUP015,Zydus Lifesciences Distributors 15,21
+PRD0167,Wh-Mumbai-03,82531,899,SUP041,Alkem Labs Distributors 41,19
+PRD0033,Wh-Mumbai-03,103169,1355,SUP059,Glenmark Distributors 59,40
+PRD0174,Wh-Delhi-02,93069,769,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0139,Not Available,88577,1647,SUP011,Biocon Distributors 11,12
+PRD0295,Wh-Kolkata-05,104180,507,SUP038,Aurobindo Pharma Distributors 38,7
+PRD0040,Wh-Mumbai-03,91711,3653,SUP018,Aurobindo Pharma Distributors 18,21
+PRD0200,Wh-Kolkata-05,87297,4320,SUP048,Not Available,20
+PRD0215,Wh-Delhi-02,68641,1116,SUP015,Not Available,19
+PRD0093,Wh-Hyderabad-04,68572,2334,SUP043,Mankind Pharma Distributors 43,7
+PRD0287,Wh-Delhi-02,102169,214,SUP029,Aurobindo Pharma Distributors 29,22
+PRD0185,Wh-Kolkata-05,87290,1504,SUP001,Biocon Distributors 1,12
+PRD0092,Wh-Hyderabad-04,126516,3729,SUP027,Torrent Pharma Distributors 27,20
+PRD0105,Wh-Jaipur-01,76643,788,SUP019,Lupin Distributors 19,37
+PRD0030,Wh-Jaipur-01,87862,4179,SUP036,Lupin Distributors 36,7
+PRD0103,Not Available,84433,4976,SUP053,Mankind Pharma Distributors 53,14
+PRD0040,Wh-Kolkata-05,91711,4636,SUP005,Sun Pharma Distributors 5,26
+PRD0263,Wh-Kolkata-05,92669,4627,SUP039,Alkem Labs Distributors 39,3
+PRD0285,Wh-Jaipur-01,79737,4620,SUP028,Mankind Pharma Distributors 28,27
+PRD0036,Not Available,83516,3132,SUP037,Glenmark Distributors 37,38
+PRD0124,Wh-Jaipur-01,73093,4986,SUP006,Torrent Pharma Distributors 6,19
+PRD0011,Not Available,87551,332,SUP015,Zydus Lifesciences Distributors 15,20
+PRD0222,Wh-Kolkata-05,92866,2926,SUP010,Alkem Labs Distributors 10,28
+PRD0042,Wh-Jaipur-01,89979,4044,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0182,Wh-Kolkata-05,77890,4385,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0052,Wh-Jaipur-01,71384,4489,SUP054,Torrent Pharma Distributors 54,10
+PRD0274,Wh-Kolkata-05,79056,1886,SUP046,Sun Pharma Distributors 46,9
+PRD0278,Wh-Jaipur-01,66965,3671,SUP024,Sun Pharma Distributors 24,23
+PRD0080,Wh-Hyderabad-04,109855,3815,SUP018,Aurobindo Pharma Distributors 18,23
+PRD0089,Wh-Jaipur-01,98329,2869,SUP009,Zydus Lifesciences Distributors 9,5
+PRD0168,Wh-Hyderabad-04,87240,3707,SUP027,Torrent Pharma Distributors 27,19
+PRD0222,Wh-Hyderabad-04,92866,4454,SUP052,Torrent Pharma Distributors 52,9
+PRD0225,Wh-Jaipur-01,89379,383,SUP041,Alkem Labs Distributors 41,20
+PRD0221,Wh-Jaipur-01,81406,1191,SUP056,Cipla Distributors 56,33
+PRD0080,Wh-Delhi-02,109855,2267,SUP049,Lupin Distributors 49,2
+PRD0260,Wh-Delhi-02,90508,3247,SUP044,Dr. Reddy'S Distributors 44,17
+PRD0030,Not Available,87862,3217,SUP014,Alkem Labs Distributors 14,31
+PRD0131,Wh-Delhi-02,83130,240,SUP036,Lupin Distributors 36,9
+PRD0113,Wh-Jaipur-01,76459,1722,SUP045,Glenmark Distributors 45,28
+PRD0291,Wh-Kolkata-05,101159,359,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0024,Wh-Kolkata-05,89074,1844,SUP016,Alkem Labs Distributors 16,23
+PRD0147,Not Available,77040,549,SUP032,Zydus Lifesciences Distributors 32,20
+PRD0002,Wh-Mumbai-03,95213,1733,SUP053,Mankind Pharma Distributors 53,13
+PRD0076,Not Available,83884,2582,SUP038,Aurobindo Pharma Distributors 38,9
+PRD0230,Wh-Hyderabad-04,89882,1511,SUP049,Lupin Distributors 49,5
+PRD0106,Wh-Mumbai-03,107975,3544,SUP004,Cipla Distributors 4,5
+PRD0282,Wh-Mumbai-03,112774,1838,SUP015,Zydus Lifesciences Distributors 15,22
+PRD0181,Wh-Jaipur-01,83707,3491,SUP054,Torrent Pharma Distributors 54,6
+PRD0166,Wh-Kolkata-05,86083,2948,SUP047,Aurobindo Pharma Distributors 47,7
+PRD0187,Wh-Jaipur-01,76539,957,SUP006,Torrent Pharma Distributors 6,21
+PRD0102,Wh-Hyderabad-04,72813,3588,SUP041,Alkem Labs Distributors 41,19
+PRD0093,Wh-Mumbai-03,68572,1138,SUP043,Mankind Pharma Distributors 43,5
+PRD0053,Wh-Kolkata-05,65148,2430,SUP049,Lupin Distributors 49,4
+PRD0223,Wh-Kolkata-05,97190,3341,SUP023,Sun Pharma Distributors 23,30
+PRD0253,Not Available,108498,333,SUP026,Cadila Healthcare Distributors 26,30
+PRD0234,Wh-Delhi-02,112794,1223,SUP021,Cipla Distributors 21,34
+PRD0082,Not Available,90803,2976,SUP043,Mankind Pharma Distributors 43,6
+PRD0078,Wh-Delhi-02,110923,123,SUP059,Glenmark Distributors 59,37
+PRD0086,Wh-Hyderabad-04,99247,894,SUP014,Alkem Labs Distributors 14,31
+PRD0036,Wh-Mumbai-03,83516,4247,SUP005,Sun Pharma Distributors 5,27
+PRD0282,Not Available,112774,2672,SUP027,Torrent Pharma Distributors 27,20
+PRD0248,Wh-Jaipur-01,123150,2640,SUP041,Alkem Labs Distributors 41,16
+PRD0029,Wh-Delhi-02,80305,4252,SUP039,Alkem Labs Distributors 39,5
+PRD0067,Wh-Delhi-02,76125,1376,SUP051,Glenmark Distributors 51,18
+PRD0272,Wh-Kolkata-05,65881,4548,SUP011,Biocon Distributors 11,14
+PRD0273,Wh-Kolkata-05,79229,4922,SUP021,Cipla Distributors 21,35
+PRD0110,Wh-Mumbai-03,80379,1441,SUP019,Lupin Distributors 19,38
+PRD0069,Wh-Mumbai-03,76853,3814,SUP053,Mankind Pharma Distributors 53,14
+PRD0153,Wh-Mumbai-03,78588,2488,SUP005,Sun Pharma Distributors 5,27
+PRD0064,Wh-Jaipur-01,73702,2523,SUP028,Mankind Pharma Distributors 28,25
+PRD0285,Wh-Hyderabad-04,79737,3838,SUP019,Lupin Distributors 19,37
+PRD0239,Wh-Delhi-02,91299,341,SUP038,Aurobindo Pharma Distributors 38,6
+PRD0154,Wh-Jaipur-01,64601,3120,SUP040,Lupin Distributors 40,7
+PRD0186,Wh-Kolkata-05,68130,4750,SUP023,Sun Pharma Distributors 23,26
+PRD0116,Wh-Jaipur-01,106458,4823,SUP016,Alkem Labs Distributors 16,23
+PRD0087,Not Available,106063,233,SUP014,Alkem Labs Distributors 14,35
+PRD0255,Wh-Mumbai-03,74001,815,SUP026,Cadila Healthcare Distributors 26,30
+PRD0133,Wh-Jaipur-01,99291,976,SUP011,Biocon Distributors 11,11
+PRD0003,Wh-Jaipur-01,97334,614,SUP001,Biocon Distributors 1,13
+PRD0140,Wh-Hyderabad-04,90559,2488,SUP007,Dr. Reddy'S Distributors 7,30
+PRD0102,Wh-Jaipur-01,72813,750,SUP055,Dr. Reddy'S Distributors 55,21
+PRD0122,Wh-Jaipur-01,115285,4948,SUP045,Glenmark Distributors 45,26
+PRD0142,Wh-Mumbai-03,91574,4158,SUP050,Dr. Reddy'S Distributors 50,7
+PRD0294,Wh-Delhi-02,75585,2856,SUP045,Glenmark Distributors 45,25
+PRD0290,Wh-Kolkata-05,68230,482,SUP007,Dr. Reddy'S Distributors 7,29
+PRD0210,Wh-Mumbai-03,70985,731,SUP054,Torrent Pharma Distributors 54,6
+PRD0206,Wh-Jaipur-01,70941,2384,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0165,Wh-Hyderabad-04,87334,3020,SUP012,Cadila Healthcare Distributors 12,11
+PRD0265,Wh-Delhi-02,94024,3832,SUP001,Biocon Distributors 1,12
+PRD0051,Not Available,96184,1394,SUP026,Cadila Healthcare Distributors 26,32
+PRD0264,Wh-Kolkata-05,83767,950,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0119,Wh-Mumbai-03,75308,4099,SUP005,Sun Pharma Distributors 5,26
+PRD0021,Wh-Hyderabad-04,119690,3670,SUP049,Lupin Distributors 49,3
+PRD0240,Wh-Kolkata-05,87671,4460,SUP045,Not Available,29
+PRD0022,Wh-Hyderabad-04,87297,2736,SUP039,Alkem Labs Distributors 39,7
+PRD0054,Wh-Delhi-02,73138,3152,SUP005,Sun Pharma Distributors 5,26
+PRD0117,Wh-Hyderabad-04,63165,1862,SUP042,Biocon Distributors 42,20
+PRD0199,Wh-Mumbai-03,102446,4112,SUP012,Cadila Healthcare Distributors 12,12
+PRD0226,Wh-Kolkata-05,80728,4664,SUP041,Alkem Labs Distributors 41,17
+PRD0159,Wh-Hyderabad-04,80119,2553,SUP057,Mankind Pharma Distributors 57,34
+PRD0211,Wh-Mumbai-03,77675,1741,SUP039,Alkem Labs Distributors 39,3
+PRD0024,Wh-Delhi-02,89074,1000,SUP011,Biocon Distributors 11,11
+PRD0044,Wh-Hyderabad-04,81509,534,SUP057,Mankind Pharma Distributors 57,33
+PRD0069,Wh-Hyderabad-04,76853,397,SUP044,Dr. Reddy'S Distributors 44,16
+PRD0138,Wh-Hyderabad-04,79530,3331,SUP037,Glenmark Distributors 37,39
+PRD0297,Wh-Delhi-02,83291,2353,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0047,Wh-Jaipur-01,112943,286,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0143,Wh-Jaipur-01,136499,2985,SUP024,Sun Pharma Distributors 24,27
+PRD0199,Not Available,102446,1735,SUP018,Aurobindo Pharma Distributors 18,20
+PRD0203,Not Available,79801,2991,SUP020,Cipla Distributors 20,37
+PRD0290,Wh-Jaipur-01,68230,2700,SUP008,Mankind Pharma Distributors 8,39
+PRD0055,Wh-Kolkata-05,84966,3537,SUP021,Cipla Distributors 21,33
+PRD0069,Wh-Kolkata-05,76853,4749,SUP027,Torrent Pharma Distributors 27,20
+PRD0048,Wh-Delhi-02,72007,4901,SUP006,Torrent Pharma Distributors 6,22
+PRD0072,Wh-Jaipur-01,73451,2114,SUP001,Biocon Distributors 1,14
+PRD0141,Wh-Hyderabad-04,80504,390,SUP018,Aurobindo Pharma Distributors 18,21
+PRD0283,Not Available,96829,3029,SUP012,Cadila Healthcare Distributors 12,10
+PRD0013,Not Available,82924,1899,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0212,Wh-Jaipur-01,75418,3826,SUP015,Zydus Lifesciences Distributors 15,18
+PRD0008,Wh-Jaipur-01,110332,4537,SUP016,Alkem Labs Distributors 16,21
+PRD0151,Wh-Delhi-02,83876,508,SUP009,Zydus Lifesciences Distributors 9,6
+PRD0051,Wh-Jaipur-01,96184,1827,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0124,Wh-Hyderabad-04,73093,2015,SUP014,Alkem Labs Distributors 14,31
+PRD0087,Wh-Hyderabad-04,106063,794,SUP048,Dr. Reddy'S Distributors 48,16
+PRD0297,Wh-Jaipur-01,83291,562,SUP005,Sun Pharma Distributors 5,30
+PRD0176,Wh-Kolkata-05,95685,2672,SUP016,Alkem Labs Distributors 16,19
+PRD0300,Wh-Hyderabad-04,99053,1421,SUP007,Dr. Reddy'S Distributors 7,31
+PRD0001,Wh-Jaipur-01,102829,4185,SUP039,Alkem Labs Distributors 39,4
+PRD0004,Wh-Delhi-02,59674,4587,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0101,Wh-Mumbai-03,98212,2112,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0063,Wh-Jaipur-01,107613,4892,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0199,Wh-Hyderabad-04,102446,2021,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0267,Wh-Jaipur-01,92488,2346,SUP007,Dr. Reddy'S Distributors 7,28
+PRD0078,Wh-Mumbai-03,110923,3797,SUP023,Sun Pharma Distributors 23,26
+PRD0068,Wh-Mumbai-03,93143,1234,SUP014,Alkem Labs Distributors 14,31
+PRD0175,Wh-Mumbai-03,118448,2018,SUP009,Zydus Lifesciences Distributors 9,2
+PRD0175,Wh-Jaipur-01,118448,2636,SUP025,Mankind Pharma Distributors 25,35
+PRD0294,Wh-Mumbai-03,75585,2602,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0032,Wh-Kolkata-05,84094,4499,SUP009,Zydus Lifesciences Distributors 9,3
+PRD0277,Not Available,84809,2882,SUP008,Mankind Pharma Distributors 8,38
+PRD0043,Wh-Hyderabad-04,75816,508,SUP008,Mankind Pharma Distributors 8,38
+PRD0044,Wh-Jaipur-01,81509,3219,SUP027,Torrent Pharma Distributors 27,17
+PRD0243,Wh-Delhi-02,86795,1142,SUP002,Biocon Distributors 2,33
+PRD0116,Wh-Mumbai-03,106458,4565,SUP052,Not Available,7
+PRD0042,Not Available,89979,140,SUP018,Aurobindo Pharma Distributors 18,22
+PRD0275,Wh-Jaipur-01,103363,2732,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0276,Wh-Kolkata-05,92358,3432,SUP016,Alkem Labs Distributors 16,20
+PRD0174,Wh-Mumbai-03,93069,443,SUP052,Torrent Pharma Distributors 52,8
+PRD0041,Wh-Mumbai-03,76209,1531,SUP004,Not Available,6
+PRD0009,Not Available,79729,4786,SUP005,Sun Pharma Distributors 5,30
+PRD0101,Wh-Delhi-02,98212,2327,SUP053,Mankind Pharma Distributors 53,15
+PRD0133,Wh-Hyderabad-04,99291,4755,SUP003,Torrent Pharma Distributors 3,25
+PRD0029,Wh-Jaipur-01,80305,3432,SUP057,Mankind Pharma Distributors 57,33
+PRD0129,Not Available,85437,4208,SUP047,Aurobindo Pharma Distributors 47,10
+PRD0228,Wh-Kolkata-05,111658,2439,SUP004,Cipla Distributors 4,7
+PRD0181,Wh-Kolkata-05,83707,3460,SUP037,Glenmark Distributors 37,36
+PRD0202,Wh-Kolkata-05,87313,100,SUP014,Alkem Labs Distributors 14,35
+PRD0136,Wh-Mumbai-03,90701,4877,SUP058,Zydus Lifesciences Distributors 58,40
+PRD0135,Wh-Hyderabad-04,71814,3740,SUP014,Alkem Labs Distributors 14,34
+PRD0034,Wh-Jaipur-01,91074,714,SUP006,Torrent Pharma Distributors 6,21
+PRD0217,Wh-Kolkata-05,105231,3904,SUP035,Sun Pharma Distributors 35,12
+PRD0136,Wh-Kolkata-05,90701,3567,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0245,Wh-Delhi-02,107075,1843,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0099,Wh-Jaipur-01,119173,4980,SUP031,Aurobindo Pharma Distributors 31,10
+PRD0194,Wh-Mumbai-03,94059,3689,SUP035,Sun Pharma Distributors 35,15
+PRD0174,Not Available,93069,1398,SUP051,Not Available,21
+PRD0258,Wh-Mumbai-03,82164,4686,SUP009,Zydus Lifesciences Distributors 9,4
+PRD0153,Wh-Hyderabad-04,78588,2446,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0123,Wh-Kolkata-05,79784,3216,SUP037,Glenmark Distributors 37,38
+PRD0008,Wh-Kolkata-05,110332,4156,SUP010,Alkem Labs Distributors 10,24
+PRD0262,Wh-Kolkata-05,98320,2188,SUP022,Glenmark Distributors 22,35
+PRD0225,Wh-Delhi-02,89379,4563,SUP040,Lupin Distributors 40,5
+PRD0248,Wh-Delhi-02,123150,4214,SUP005,Sun Pharma Distributors 5,28
+PRD0129,Wh-Mumbai-03,85437,448,SUP002,Biocon Distributors 2,35
+PRD0291,Wh-Jaipur-01,101159,4238,SUP019,Lupin Distributors 19,38
+PRD0026,Not Available,70199,3306,SUP026,Cadila Healthcare Distributors 26,33
+PRD0147,Wh-Hyderabad-04,77040,246,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0162,Wh-Kolkata-05,91442,2269,SUP028,Not Available,25
+PRD0063,Wh-Kolkata-05,107613,477,SUP059,Glenmark Distributors 59,40
+PRD0246,Wh-Jaipur-01,83287,1759,SUP003,Torrent Pharma Distributors 3,27
+PRD0216,Wh-Delhi-02,121426,2483,SUP042,Biocon Distributors 42,23
+PRD0209,Wh-Mumbai-03,94081,1283,SUP035,Sun Pharma Distributors 35,14
+PRD0109,Wh-Mumbai-03,97609,2517,SUP013,Zydus Lifesciences Distributors 13,34
+PRD0157,Not Available,81193,3379,SUP014,Alkem Labs Distributors 14,35
+PRD0144,Wh-Jaipur-01,66777,4385,SUP020,Cipla Distributors 20,38
+PRD0003,Wh-Kolkata-05,97334,1041,SUP016,Alkem Labs Distributors 16,21
+PRD0058,Wh-Hyderabad-04,72178,2843,SUP034,Sun Pharma Distributors 34,27
+PRD0293,Wh-Jaipur-01,110992,3661,SUP014,Alkem Labs Distributors 14,34
+PRD0275,Wh-Kolkata-05,103363,3410,SUP015,Zydus Lifesciences Distributors 15,19
+PRD0265,Wh-Hyderabad-04,94024,4581,SUP040,Lupin Distributors 40,4
+PRD0071,Wh-Delhi-02,90015,3590,SUP035,Sun Pharma Distributors 35,11
+PRD0213,Wh-Mumbai-03,79502,1265,SUP055,Dr. Reddy'S Distributors 55,24
+PRD0224,Wh-Mumbai-03,102214,1517,SUP021,Cipla Distributors 21,35
+PRD0113,Wh-Kolkata-05,76459,2759,SUP054,Torrent Pharma Distributors 54,7
+PRD0190,Wh-Hyderabad-04,92630,2028,SUP017,Zydus Lifesciences Distributors 17,1
+PRD0071,Wh-Kolkata-05,90015,3128,SUP039,Alkem Labs Distributors 39,5
+PRD0212,Not Available,75418,2253,SUP029,Aurobindo Pharma Distributors 29,25
+PRD0215,Wh-Jaipur-01,68641,3387,SUP002,Biocon Distributors 2,33
+PRD0035,Wh-Mumbai-03,96435,644,SUP008,Mankind Pharma Distributors 8,40
+PRD0018,Wh-Kolkata-05,75938,2543,SUP056,Cipla Distributors 56,30
+PRD0238,Wh-Delhi-02,78238,1840,SUP021,Cipla Distributors 21,33
+PRD0094,Wh-Hyderabad-04,68498,3776,SUP018,Aurobindo Pharma Distributors 18,24
+PRD0125,Wh-Jaipur-01,83181,953,SUP001,Biocon Distributors 1,13
+PRD0096,Wh-Jaipur-01,95262,942,SUP050,Dr. Reddy'S Distributors 50,9
+PRD0041,Wh-Kolkata-05,76209,4790,SUP006,Torrent Pharma Distributors 6,22
+PRD0200,Wh-Jaipur-01,87297,2478,SUP010,Alkem Labs Distributors 10,27
+PRD0039,Wh-Delhi-02,73580,2034,SUP039,Alkem Labs Distributors 39,3
+PRD0056,Wh-Jaipur-01,96109,2401,SUP044,Dr. Reddy'S Distributors 44,19
+PRD0266,Wh-Mumbai-03,87240,2469,SUP043,Mankind Pharma Distributors 43,8
+PRD0185,Wh-Jaipur-01,87290,1351,SUP032,Zydus Lifesciences Distributors 32,21
+PRD0003,Wh-Mumbai-03,97334,1954,SUP057,Mankind Pharma Distributors 57,35
+PRD0032,Wh-Hyderabad-04,84094,1416,SUP047,Aurobindo Pharma Distributors 47,11
+PRD0237,Not Available,76970,737,SUP007,Dr. Reddy'S Distributors 7,32
+PRD0051,Wh-Delhi-02,96184,4172,SUP022,Glenmark Distributors 22,35
+PRD0108,Wh-Delhi-02,84268,1096,SUP060,Alkem Labs Distributors 60,33
+PRD0146,Wh-Mumbai-03,131799,1238,SUP054,Not Available,7
+PRD0053,Wh-Mumbai-03,65148,2690,SUP005,Sun Pharma Distributors 5,26
+PRD0107,Wh-Delhi-02,73889,313,SUP020,Cipla Distributors 20,36
+PRD0139,Wh-Kolkata-05,88577,2723,SUP021,Not Available,33
+PRD0206,Wh-Kolkata-05,70941,4711,SUP029,Aurobindo Pharma Distributors 29,22
+PRD0035,Wh-Jaipur-01,96435,3968,SUP020,Cipla Distributors 20,39
+PRD0293,Wh-Delhi-02,110992,755,SUP026,Cadila Healthcare Distributors 26,30
+PRD0261,Wh-Delhi-02,83704,1907,SUP013,Zydus Lifesciences Distributors 13,32
+PRD0237,Wh-Hyderabad-04,76970,4167,SUP036,Lupin Distributors 36,6
+PRD0005,Wh-Hyderabad-04,84617,3513,SUP055,Dr. Reddy'S Distributors 55,22
+PRD0199,Wh-Delhi-02,102446,413,SUP044,Dr. Reddy'S Distributors 44,20
+PRD0012,Wh-Mumbai-03,84624,4258,SUP010,Alkem Labs Distributors 10,27
+PRD0188,Not Available,83064,2664,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0038,Wh-Kolkata-05,84695,3542,SUP028,Mankind Pharma Distributors 28,26
+PRD0176,Wh-Jaipur-01,95685,2380,SUP034,Sun Pharma Distributors 34,29
+PRD0164,Wh-Delhi-02,123946,1085,SUP038,Aurobindo Pharma Distributors 38,8
+PRD0217,Wh-Hyderabad-04,105231,633,SUP011,Biocon Distributors 11,12
+PRD0042,Wh-Hyderabad-04,89979,168,SUP019,Lupin Distributors 19,34
+PRD0235,Wh-Hyderabad-04,96565,1165,SUP056,Cipla Distributors 56,31
+PRD0224,Wh-Kolkata-05,102214,148,SUP053,Mankind Pharma Distributors 53,13
+PRD0205,Wh-Jaipur-01,76242,3206,SUP047,Aurobindo Pharma Distributors 47,10
+PRD0247,Not Available,81206,2605,SUP036,Lupin Distributors 36,6
+PRD0105,Not Available,76643,1815,SUP041,Alkem Labs Distributors 41,16
+PRD0010,Not Available,112781,2334,SUP011,Biocon Distributors 11,12
+PRD0054,Not Available,73138,3371,SUP033,Zydus Lifesciences Distributors 33,15
+PRD0118,Wh-Jaipur-01,94298,1917,SUP010,Not Available,24
+PRD0238,Wh-Mumbai-03,78238,3009,SUP025,Mankind Pharma Distributors 25,35
+PRD0294,Wh-Jaipur-01,75585,2961,SUP054,Torrent Pharma Distributors 54,9
+PRD0208,Not Available,85346,2151,SUP054,Torrent Pharma Distributors 54,7
+PRD0168,Wh-Kolkata-05,87240,4081,SUP042,Biocon Distributors 42,19
+PRD0236,Wh-Hyderabad-04,96112,4496,SUP031,Aurobindo Pharma Distributors 31,12
+PRD0095,Wh-Delhi-02,116238,2529,SUP044,Dr. Reddy'S Distributors 44,16
+PRD0174,Wh-Kolkata-05,93069,1486,SUP057,Mankind Pharma Distributors 57,37
+PRD0131,Not Available,83130,983,SUP027,Torrent Pharma Distributors 27,18
+PRD0111,Wh-Kolkata-05,97377,4455,SUP059,Glenmark Distributors 59,39
+PRD0276,Wh-Mumbai-03,92358,4593,SUP044,Dr. Reddy'S Distributors 44,18
+PRD0100,Not Available,115675,2205,SUP029,Aurobindo Pharma Distributors 29,23
+PRD0138,Wh-Mumbai-03,79530,1541,SUP055,Dr. Reddy'S Distributors 55,20
+PRD0178,Wh-Kolkata-05,79556,1021,SUP013,Zydus Lifesciences Distributors 13,36
+PRD0090,Wh-Jaipur-01,84367,160,SUP039,Alkem Labs Distributors 39,7
+PRD0086,Wh-Jaipur-01,99247,4263,SUP010,Alkem Labs Distributors 10,24
+PRD0001,Wh-Mumbai-03,102829,3234,SUP037,Glenmark Distributors 37,35
+PRD0186,Not Available,68130,601,SUP008,Not Available,37
+PRD0177,Wh-Delhi-02,93999,3224,SUP053,Mankind Pharma Distributors 53,13
+PRD0049,Wh-Delhi-02,107164,3287,SUP049,Lupin Distributors 49,5
+PRD0259,Wh-Mumbai-03,85743,558,SUP045,Glenmark Distributors 45,26
+PRD0019,Wh-Kolkata-05,67327,4837,SUP035,Sun Pharma Distributors 35,13
+PRD0259,Wh-Delhi-02,85743,115,SUP057,Mankind Pharma Distributors 57,34
+PRD0164,Wh-Kolkata-05,123946,3617,SUP021,Cipla Distributors 21,36
+PRD0148,Wh-Mumbai-03,83821,2640,SUP044,Dr. Reddy'S Distributors 44,16
+PRD0218,Wh-Hyderabad-04,77625,2485,SUP052,Torrent Pharma Distributors 52,7
+PRD0245,Wh-Kolkata-05,107075,224,SUP050,Dr. Reddy'S Distributors 50,8
+PRD0268,Wh-Delhi-02,74361,2210,SUP048,Dr. Reddy'S Distributors 48,19
+PRD0193,Wh-Kolkata-05,89708,3428,SUP030,Not Available,8
+PRD0228,Not Available,111658,490,SUP056,Cipla Distributors 56,33
+PRD0241,Wh-Kolkata-05,80306,4684,SUP058,Zydus Lifesciences Distributors 58,38
+PRD0280,Not Available,64371,956,SUP002,Biocon Distributors 2,33
+PRD0129,Wh-Kolkata-05,85437,3226,SUP049,Lupin Distributors 49,5
+PRD0155,Wh-Kolkata-05,83764,1458,SUP012,Cadila Healthcare Distributors 12,12
+PRD0117,Wh-Kolkata-05,63165,975,SUP048,Not Available,20
+PRD0253,Wh-Delhi-02,108498,2169,SUP060,Alkem Labs Distributors 60,33
+PRD0235,Wh-Mumbai-03,96565,2539,SUP031,Aurobindo Pharma Distributors 31,11
+PRD0010,Wh-Mumbai-03,112781,578,SUP048,Dr. Reddy'S Distributors 48,18
+PRD0204,Wh-Hyderabad-04,129228,1104,SUP040,Lupin Distributors 40,3
+PRD0159,Wh-Jaipur-01,80119,4731,SUP024,Sun Pharma Distributors 24,23
+PRD0150,Wh-Jaipur-01,96143,4945,SUP033,Zydus Lifesciences Distributors 33,13
+PRD0182,Wh-Mumbai-03,77890,1749,SUP032,Zydus Lifesciences Distributors 32,20
+PRD0009,Wh-Delhi-02,79729,1015,SUP046,Sun Pharma Distributors 46,12
+PRD0078,Not Available,110923,3369,SUP027,Torrent Pharma Distributors 27,20
+PRD0057,Wh-Mumbai-03,103627,2649,SUP034,Sun Pharma Distributors 34,26
+PRD0138,Wh-Jaipur-01,79530,748,SUP025,Mankind Pharma Distributors 25,36
+PRD0192,Wh-Jaipur-01,76195,1907,SUP016,Alkem Labs Distributors 16,20
+PRD0141,Wh-Delhi-02,80504,830,SUP035,Sun Pharma Distributors 35,14
+PRD0277,Wh-Hyderabad-04,84809,1460,SUP054,Torrent Pharma Distributors 54,10
+PRD0274,Wh-Delhi-02,79056,2587,SUP032,Zydus Lifesciences Distributors 32,23
+PRD0182,Wh-Hyderabad-04,77890,65,SUP059,Glenmark Distributors 59,38
+PRD0196,Wh-Mumbai-03,81031,3509,SUP025,Mankind Pharma Distributors 25,37
+PRD0055,Wh-Hyderabad-04,84966,4579,SUP049,Lupin Distributors 49,2
+PRD0105,Wh-Delhi-02,76643,4739,SUP010,Alkem Labs Distributors 10,26
+PRD0166,Wh-Jaipur-01,86083,1999,SUP009,Zydus Lifesciences Distributors 9,5
+PRD0256,Wh-Mumbai-03,77992,2005,SUP037,Glenmark Distributors 37,39
+PRD0262,Wh-Mumbai-03,98320,4394,SUP003,Torrent Pharma Distributors 3,25
+PRD0157,Wh-Jaipur-01,81193,4444,SUP017,Zydus Lifesciences Distributors 17,3
+PRD0298,Wh-Jaipur-01,87344,4679,SUP030,Biocon Distributors 30,7
+PRD0184,Not Available,86476,814,SUP036,Lupin Distributors 36,8
+PRD0201,Wh-Jaipur-01,119168,4970,SUP021,Cipla Distributors 21,33
